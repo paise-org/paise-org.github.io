@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Workshop
+post_title: "PAISE 2024: 6th Workshop on Parallel AI and Systems for the Edge"
 permalink: /
 subtitle:
 nav_title: About
