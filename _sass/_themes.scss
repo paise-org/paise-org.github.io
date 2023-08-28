@@ -45,6 +45,16 @@
   .repo-img-dark {
     display: none;
   }
+  
+  .header-background .img {
+    background-image: url("../img/Saint_Petersburg_Florida_Panorama.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom;
+    height: 15em;
+    margin-bottom: 2em;
+    margin-top: -2.7em;
+  }
 }
 
 html[data-theme='dark'] {
