@@ -36,9 +36,9 @@ Templates for MS Word and LaTeX provided by IEEE eXpress Conference Publishing a
 download.
 See the latest versions <a href="https://www.ieee.org/conferences_events/conferences/publishing/templates.html">here</a>.
 
-Here is a link to the EasyChair <a href="https://easychair.org/cfp/PAISE2023">CFP</a>. Upload
+Here is a link to the EasyChair <a href="https://easychair.org/cfp/PAISE2024">CFP</a>. Upload
 your submission to
-EasyChair <a href="https://easychair.org/conferences/?conf=paise2023">submission server</a> in
+EasyChair <a href="https://easychair.org/conferences/?conf=paise2024">submission server</a> in
 PDF format. Accepted
 manuscripts will be included in the IPDPS workshop proceedings.
 
