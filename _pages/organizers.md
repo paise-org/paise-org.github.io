@@ -3,7 +3,7 @@ layout: page
 title: Organizers
 permalink: /organizers
 nav: true
-nav_order: 1
+nav_order: 3
 ---
 
 ### Program Committee
@@ -24,12 +24,13 @@ nav_order: 1
 * Yuxiong Wang, University of Illinois
 * Kazutomo Yoshii, Argonne National Laboratory
 
-### General Chairs
-* <a href="https://iakkus.github.io/">Istemi Ekin Akkus</a>, Nokia Bell Labs
-* <a href="https://scholar.google.com/citations?user=JNPLMVEAAAAJ&hl=en">Nirmit V Desai</a>, IBM Research
+### Publicity Chairs
+* <a href="https://mcopik.github.io/">Marcin Copik</a>, ETH Zürich
+* <a href="https://www.dsc-ub.de/en/member_details.php?id=4">Christopher A. Metz</a>, Universitat Bremen 
 
-### Workshop Organizers
+### Program Chairs
+* <a href="https://iakkus.github.io/">Istemi Ekin Akkus</a>, Nokia Bell Labs
 * <a href="https://www.mcs.anl.gov/~beckman">Pete Beckman</a>, <a href="https://www.mcs.anl.gov/">Mathematics and Computer Science Division</a>, Argonne
-National Laboratory, USA, E-mail: <a href="../../../../../cdn-cgi/l/email-protection#8be9eee8e0e6eae5cbe6e8f8a5eae5e7a5ece4fd"><span class="__cf_email__" data-cfemail="e18384828a8c808fa18c8292cf808f8dcf868e97">[email&#160;protected]</span></a>
+National Laboratory, USA
 * <a href="https://www.mcs.anl.gov/~rajesh">Rajesh Sankaran</a>, <a href="https://www.mcs.anl.gov/">Mathematics and Computer Science Division</a>, Argonne
-National Laboratory, USA, E-mail: <a href="../../../../../cdn-cgi/l/email-protection#d8aab9b2bdabb098b5bbabf6b9b6b4f6bfb7ae"><span class="__cf_email__" data-cfemail="4537242f20362d052826366b242b296b222a33">[email&#160;protected]</span></a>
+National Laboratory, USA
