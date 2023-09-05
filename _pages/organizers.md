@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-### Program Committee
+### Program Committee (Tentative based on 2023 committee)
 
 * Utku Gunay Acer, Nokia Bell Labs
 * Marco Brocanelli, Wayne State University
