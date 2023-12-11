@@ -24,7 +24,7 @@ Full technical papers, and extended abstracts on opinions, visions, positions, a
 * DevOps across Edge and Cloud
 * Data and AI Lifecycle Management across Edge and Cloud
 * Edge-driven HPC, and HPC-steered Edge Computing
-* Energy Efficient and Low-power Hardware Architectures for the Edge
+* Energy Efficient and Low-power Hardware and Software Architectures and Services for the Edge
 * Serverless and other Programming Models for Edge
 * Multitenancy at the Edge
 * Digital-twins and other applications catalyzed by edge-computing
