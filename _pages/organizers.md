@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 ### Steering Committee
-* Pete Beckman, Mathematics and Computer Science Division</a>, Argonne National Laboratory
+* Pete Beckman, Mathematics and Computer Science Division, Argonne National Laboratory
 * Ramachandran Vaidyanathan, Division of Electrical and Computer Engineering, Louisiana State University
 
 ### Program Committee (Tentative, based on 2023 committee)
@@ -37,5 +37,4 @@ nav_order: 3
 
 ### Program Chairs
 * <a href="https://iakkus.github.io/">Istemi Ekin Akkus</a>, Nokia Bell Labs
-* <a href="https://www.mcs.anl.gov/~rajesh">Rajesh Sankaran</a>, <a href="https://www.mcs.anl.gov/">Mathematics and Computer Science Division</a>, Argonne
-National Laboratory
+* <a href="https://www.mcs.anl.gov/~rajesh">Rajesh Sankaran</a>, <a href="https://www.mcs.anl.gov/">Mathematics and Computer Science Division</a>, Argonne National Laboratory
