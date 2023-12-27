@@ -16,7 +16,7 @@ nav_order: 4
 
 ## Keynote: Dr. Manish Parashar
 
-![Dr. Manish Parashar](/assets/img/Headshot.png)
+<img src="/assets/img/Headshot.png" alt="Dr. Manish Parashar" width="200"/>
 
 [Website](https://www.manishparashar.org/)
 
