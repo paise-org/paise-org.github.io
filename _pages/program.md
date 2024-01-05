@@ -14,7 +14,7 @@ nav_order: 4
 {: .table-striped}
 -->
 
-## **Keynote: [Dr. Manish Parashar](https://www.manishparashar.org/)**
+## **Keynote**: [Dr. Manish Parashar](https://www.manishparashar.org/)
 
 <img src="/assets/img/Headshot.png" alt="Dr. Manish Parashar" width="250"/>
 
