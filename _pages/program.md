@@ -14,11 +14,9 @@ nav_order: 4
 {: .table-striped}
 -->
 
-## Keynote: Dr. Manish Parashar
+## **Keynote: [Dr. Manish Parashar](https://www.manishparashar.org/)**
 
-<img src="/assets/img/Headshot.png" alt="Dr. Manish Parashar" width="200"/>
-
-[Website](https://www.manishparashar.org/)
+<img src="/assets/img/Headshot.png" alt="Dr. Manish Parashar" width="250"/>
 
 Manish Parashar is Director of the Scientific Computing and Imaging Institute and Presidential Professor in the University of Utah’s Kahlert School of Computing. He recently completed an IPA term as Office Director of NSF's Office of Advanced Cyberinfrastructure, where he oversaw investments in national cyberinfrastructure. He also served as co-chair of the National Science and Technology Council’s Subcommittee on the Future Advanced Computing Ecosystem and the National Artificial Intelligence Research Resource Task Force. Manish is a fellow of AAAS, ACM, and IEEE.
 
