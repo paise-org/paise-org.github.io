@@ -11,23 +11,23 @@ nav_order: 3
 * Ramachandran Vaidyanathan, Division of Electrical and Computer Engineering, Louisiana State University
 * Eric Van Hensbergen, ARM Research
 
-### Program Committee (Tentative, based on 2023 committee)
-
-* Utku Gunay Acer, Nokia Bell Labs
-* Marco Brocanelli, Wayne State University
-* Kevin Chan, Army Research Laboratory
-* Chen Chen, University of Central Florida
-* Ruichuan Chen, Nokia Bell Labs
-* Nicolas Erdody, Open Parallel
-* Nicola Ferrier, University of Chicago
-* Xiaowen Gong, Auburn University
-* Dhiraj Joshi, IBM Research
+### Program Committee
+  
+* Bernhard Berger
+* Rolf Drechsler
 * Michael Papka, Northern Illinois University
-* Sai Manoj Pudukotai Dinakarrao, George Mason University
 * Eric Van Hensbergen, ARM Research
-* Blesson Varghese, University of St Andrews, UK
-* Yuxiong Wang, University of Illinois
-* Kazutomo Yoshii, Argonne National Laboratory
+* Aalap Tripathy	
+* Denis Trystram	
+* Mohamed Wahib	
+* Jens Domke	
+* Nicolas Erdody, Open Parallel
+* Utku Gunay Acer, Nokia Bell Labs
+* Marcos Dias de Asuncao	
+* Pekka Jääskeläinen	
+* Daniel Balouek-Thomert	
+* Alexandre da Silva Veith		
+* Hiroki Matsutani
 
 ### Publicity Chairs
 * <a href="https://mcopik.github.io/">Marcin Copik</a>, ETH Zürich
