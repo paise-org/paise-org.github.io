@@ -13,21 +13,22 @@ nav_order: 3
 
 ### Program Committee
   
-* Bernhard Berger
-* Rolf Drechsler
+* Bernhard Berger, Hamburg University of Technology
+* Rolf Drechsler, University of Bremen
 * Michael Papka, Northern Illinois University
 * Eric Van Hensbergen, ARM Research
-* Aalap Tripathy	
-* Denis Trystram	
-* Mohamed Wahib	
-* Jens Domke	
+* Aalap Tripathy, Hewlett Packard Enterprise
+* Denis Trystram, Grenoble University
+* Mohamed Wahib, Riken Center for Computational Science
+* Jens Domke, Riken Center for Computational Science
 * Nicolas Erdody, Open Parallel
 * Utku Gunay Acer, Nokia Bell Labs
-* Marcos Dias de Asuncao	
-* Pekka Jääskeläinen	
-* Daniel Balouek-Thomert	
-* Alexandre da Silva Veith		
-* Hiroki Matsutani
+* Marcos Dias de Asuncao, Ecole Technologie Superieure, Quebec University
+* Issam Rais, University of Tromso
+* Pekka Jääskeläinen, Tampere University
+* Daniel Balouek-Thomert, INRIA, IMT Atlantique
+* Alexandre da Silva Veith, Nokia Bell Labs
+* Hiroki Matsutani, Keio University
 
 ### Publicity Chairs
 * <a href="https://mcopik.github.io/">Marcin Copik</a>, ETH Zürich
