@@ -17,10 +17,12 @@ nav_order: 3
 * Marcos Dias de Asuncao, Ecole Technologie Superieure, Quebec University
 * Daniel Balouek-Thomert, INRIA, IMT Atlantique
 * Bernhard Berger, Hamburg University of Technology
+* Marco Braconelli, Ohio State University
 * Alexandre da Silva Veith, Nokia Bell Labs
+* Nirmit Desai, IBM
 * Jens Domke, Riken Center for Computational Science
 * Rolf Drechsler, University of Bremen
-* Nicolas Erdody, Open Parallel
+* Nicolás Erdödy, Open Parallel
 * Pekka Jääskeläinen, Tampere University
 * Hiroki Matsutani, Keio University
 * Michael Papka, Northern Illinois University
@@ -29,6 +31,7 @@ nav_order: 3
 * Denis Trystram, Grenoble University
 * Eric Van Hensbergen, ARM Research
 * Mohamed Wahib, Riken Center for Computational Science
+* Kazutomo Yoshii, Argonne National Laboratory
 
 ### Publicity Chairs
 * <a href="https://mcopik.github.io/">Marcin Copik</a>, ETH Zürich
