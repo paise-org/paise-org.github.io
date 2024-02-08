@@ -27,6 +27,7 @@ nav_order: 3
 * Hiroki Matsutani, Keio University
 * Michael Papka, Northern Illinois University
 * Issam Rais, University of Tromso
+* Janwillem Swalens, Nokia Bell Labs
 * Aalap Tripathy, Hewlett Packard Enterprise
 * Denis Trystram, Grenoble University
 * Eric Van Hensbergen, ARM Research

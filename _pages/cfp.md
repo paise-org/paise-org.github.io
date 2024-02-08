@@ -5,6 +5,7 @@ permalink: /cfp
 nav: true
 nav_order: 2
 ---
+<h3> <b style="color:red;">Deadline extended: February 19th AOE, 2024</b></h3>
 
 All papers must be original.
 The papers submitted to the workshop will be peer reviewed by a minimum of 3 reviewers.
@@ -44,8 +45,8 @@ manuscripts will be included in the IPDPS workshop proceedings.
 
 ### Important Dates
 
-* <b style="color:green;"> February 14th AOE, 2024: </b> Submission deadline.
-* <b style="color:green;"> February 27th AOE, 2024: </b>Notification of acceptance.
+* <b style="color:green;text-decoration:line-through;"> February 14th</b> <b style="color:red;"> February 19th AOE, 2024: </b> Submission deadline <b style="color:red;"> (extended) </b>.
+* <b style="color:green;text-decoration: line-through;"> February 27th</b> <b style="color:red;"> March 1st, 2024: </b>Notification of acceptance.
 * <b style="color:green;"> March 7th, 2024: </b> Camera ready papers due.
 * <b style="color:green;"> May 27th, 2024: </b> Workshop.
 
