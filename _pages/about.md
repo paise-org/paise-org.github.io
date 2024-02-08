@@ -8,6 +8,8 @@ nav_title: About
 
 ### Co-located with IPDPS 2024, 27th May 2024, San Francisco, USA.
 
+<h3> <b style="color:red;">Deadline extended: February 19th AOE, 2024</b></h3>
+
 From applications to hardware platforms, Edge computing is rapidly transforming the computing landscape. Based on the program and participation in the past years, and particularly drawing on the detailed feedback from in-person workshop attendees in 2023, PAISE 2024 will balance interaction-focused sessions and traditional technical talks. The objective is to enable organic discussions that augment traditional paper presentations, providing a critically needed opportunity to discuss the current trends and issues, to share visions and opinions, to collect feedback and to discuss solutions covering the following areas of edge computing:
 
 * applications &mdash; computer vision, machine learning, analytics, IoT;
@@ -18,7 +20,7 @@ From applications to hardware platforms, Edge computing is rapidly transforming 
 
 * infrastructure &mdash; storage, compute, and connectivity conducive to resource-constrained and harsh edge environments.
 
-Read more about [the goals of this workshop](/why_paise) and [submit a paper](/cfp) by **February 14th AOE, 2024**!
+Read more about [the goals of this workshop](/why_paise) and [submit a paper](/cfp) by <b style="color:green;text-decoration:line-through;"> February 14th</b> <b style="color:red;"> February 19th AOE, 2024: (extended)</b>!
 
 ## Contact
 
