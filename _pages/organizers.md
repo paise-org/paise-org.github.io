@@ -12,27 +12,27 @@ nav_order: 3
 * Eric Van Hensbergen, ARM Research
 
 ### Program Committee
-  
+
+* Denis	Trystram, Grenoble Alpes university
 * Utku Gunay Acer, Nokia Bell Labs
-* Marcos Dias de Asuncao, Ecole Technologie Superieure, Quebec University
-* Daniel Balouek-Thomert, INRIA, IMT Atlantique
-* Bernhard Berger, Hamburg University of Technology
-* Marco Braconelli, Ohio State University
-* Alexandre da Silva Veith, Nokia Bell Labs
+* Nicolás	Erdödy, Open Parallel Ltd
+* Marco	Brocanelli, The Ohio State University
+* Daniel Balouek-Thomert, Inria
+* Bernhard J. Berger, Hamburg University of Technology
+* Rolf Drechsler, Universität Bremen
+* Pekka	Jääskeläinen, Intel & Tampere University
+* Alexandre	da Silva Veith, Nokia Bell Labs
+* Marcos Assuncao, ETS Montreal
+* Janwillem	Swalens, Nokia Bell Labs
 * Nirmit Desai, IBM
-* Jens Domke, Riken Center for Computational Science
-* Rolf Drechsler, University of Bremen
-* Nicolás Erdödy, Open Parallel
-* Pekka Jääskeläinen, Tampere University
+* Jens Domke, RIKEN Center for Computational Science (R-CCS)
 * Hiroki Matsutani, Keio University
-* Michael Papka, Northern Illinois University
-* Issam Rais, University of Tromso
-* Janwillem Swalens, Nokia Bell Labs
-* Aalap Tripathy, Hewlett Packard Enterprise
-* Denis Trystram, Grenoble University
 * Eric Van Hensbergen, ARM Research
-* Mohamed Wahib, Riken Center for Computational Science
+* Michael	Papka, Argonne National Laboratory and University of Illinois Chicago
 * Kazutomo Yoshii, Argonne National Laboratory
+* Issam	Rais, UiT
+* Aalap	Tripathy,	Hewlett Packard Enterprise
+* Mohamed	Wahib, AIST/TokyoTech OIL
 
 ### Publicity Chairs
 * <a href="https://mcopik.github.io/">Marcin Copik</a>, ETH Zürich
