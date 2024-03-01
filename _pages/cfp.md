@@ -46,7 +46,7 @@ manuscripts will be included in the IPDPS workshop proceedings.
 ### Important Dates
 
 * <b style="color:green;text-decoration:line-through;"> February 14th</b> <b style="color:red;"> February 19th AOE, 2024: </b> Submission deadline <b style="color:red;"> (extended) </b>.
-* <b style="color:green;text-decoration: line-through;"> February 27th</b> <b style="color:red;"> March 1st, 2024: </b>Notification of acceptance.
+* <b style="color:green;text-decoration: line-through;"> February 27th</b> <b style="color:red;"> March 4th, 2024: </b>Notification of acceptance.
 * <b style="color:green;"> March 7th, 2024: </b> Camera ready papers due.
 * <b style="color:green;"> May 27th, 2024: </b> Workshop.
 
