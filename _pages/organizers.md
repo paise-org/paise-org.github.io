@@ -31,7 +31,7 @@ nav_order: 3
 * Michael	Papka, Argonne National Laboratory and University of Illinois Chicago
 * Kazutomo Yoshii, Argonne National Laboratory
 * Issam	Rais, UiT
-* Aalap	Tripathy,	Hewlett Packard Enterprise
+* Aalap	Tripathy, Hewlett Packard Enterprise
 * Mohamed	Wahib, AIST/TokyoTech OIL
 
 ### Publicity Chairs
