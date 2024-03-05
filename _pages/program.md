@@ -24,4 +24,11 @@ Manish’s research interests are in the broad areas of Parallel and Distributed
 
 He has received several awards for his research and leadership, including the 2023 Achievement Award in High Performance Distributed Computing and the 2023 Sidney Fernbach Memorial Award. He is a Fellow of AAAS, ACM, and IEEE.
 
+## Accepted Papers
 
+| Title  | Authors | Type |
+| ------------- | ------------- | - |
+| **FrameFeedback: A Closed-Loop Control System for Dynamic Offloading Real-Time Edge Inference** | Dimitrios Nikolopoulos, Matthew Jackson and Bo Ji | Regular |
+| **PCM Enabled Low-Power Photonic Accelerator for Inference and Training on Edge Devices** | Juliana Curry, Ahmed Louri, Avinash Karanth and Razvan Bunescu | Regular |
+| **A Converting Autoencoder Toward Low-latency and Energy-efficient DNN Inference at the Edge** | Hasanul Mahmud, Peng Kang, Kevin Desai, Palden Lama and Sushil Prasad | Regular |
+| **Towards Accelerating k-NN with MPI and Near-Memory Processing** |  Hoo-Young Ahn, Seon Young Kim, Yoomi Park, Woojong Han, Nick Contini, Bharath Ramesh, Mustafa Abduljabbar and Panda Dhabaleswar | Regular |
