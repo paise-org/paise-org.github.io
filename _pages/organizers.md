@@ -32,7 +32,7 @@ nav_order: 3
 * Kazutomo Yoshii, Argonne National Laboratory
 * Issam	Rais, UiT
 * Aalap	Tripathy, Hewlett Packard Enterprise
-* Mohamed	Wahib, AIST/TokyoTech OIL
+* Mohamed	Wahib, RIKEN Center for Computational Science (R-CCS)
 
 ### Publicity Chairs
 * <a href="https://mcopik.github.io/">Marcin Copik</a>, ETH Zürich
