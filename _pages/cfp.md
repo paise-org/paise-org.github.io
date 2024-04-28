@@ -5,7 +5,6 @@ permalink: /cfp
 nav: true
 nav_order: 2
 ---
-<h3> <b style="color:red;">Deadline extended: February 19th AOE, 2024</b></h3>
 
 All papers must be original.
 The papers submitted to the workshop will be peer reviewed by a minimum of 3 reviewers.
