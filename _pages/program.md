@@ -43,88 +43,88 @@ The final program will be posted in first week of May.
       <td>Introductory Remarks - PAISE Organizers</td>
       <td>9:00 AM</td>
       <td>9:10 AM</td>
-      <td>10</td>
+      <td>10 min</td>
     </tr>
     <tr>
       <td scope="row"><b>Session 1</b></td>
       <td>Keynote - <b>Manish Parashar</b></td>
       <td>9:10 AM</td>
       <td>10:10 AM</td>
-      <td>50</td>
+      <td>60 min</td>
     </tr>
     <tr>
       <td></td>
       <td scope="row"><b>Break - 1</b></td>
       <td>10:10 AM</td>
       <td>10:20 AM</td>
-      <td>10</td>
+      <td>10 min</td>
     </tr>
     <tr>
       <td scope="row" rowspan="3"><b>Session 2</b></td>
       <td>PAISE-01: <b>FrameFeedback: A Closed-Loop Control System for Dynamic Offloading Real-Time Edge Inference.</b> Dimitrios Nikolopoulos, Matthew Jackson and Bo Ji.</td>
       <td>10:20 AM</td>
       <td>10:45 AM</td>
-      <td>25</td>
+      <td>25 min</td>
     </tr>
     <tr>
       <td>PAISE-02: <b>PCM Enabled Low-Power Photonic Accelerator for Inference and Training on Edge Devices.</b> <u>Juliana Curry</u>, Ahmed Louri, Avinash Karanth and Razvan Bunescu.</td>
       <td>10:45 AM</td>
       <td>11:10 AM</td>
-      <td>25</td>
+      <td>25 min</td>
     </tr>
     <tr>
       <td>Invited Talk: <b>Charon: An End-to-End Infrastructure for Connecting AI@Edge to HPC.</b> <u>Seongha Park</u>, Yongho Kim, Swann Perarnau, Kamil Iskra, Pete Beckman, and Kazutomo Yoshii.</td>
       <td>11:10 AM</td>
       <td>11:30 AM</td>
-      <td>20</td>
+      <td>20 min</td>
     </tr>
     <tr>
       <td></td>
       <td scope="row"><b>Lunch</b></td>
       <td>11:30 AM</td>
       <td>1:00 PM</td>
-      <td>90</td>
+      <td>90 min</td>
     </tr>
     <tr>
       <td scope="row"><b>Panel</b></td>
       <td><b>Immidiate opportunities and challenges, and long-term strategy.</b></td>
       <td>1:00 PM</td>
       <td>2:30 PM</td>
-      <td>90</td>
+      <td>90 min</td>
     </tr>
     <tr>
       <td></td>
       <td scope="row"><b>Break - 2</b></td>
       <td>2:30 PM</td>
       <td>2:40 PM</td>
-      <td>10</td>
+      <td>10 min</td>
     </tr>
     <tr>
       <td scope="row" rowspan="2"><b>Session 3</b></td>
       <td>PAISE-03: <b>A Converting Autoencoder Toward Low-latency and Energy-efficient DNN Inference at the Edge.</b> Hasanul Mahmud, Peng Kang, Kevin Desai, Palden Lama and Sushil Prasad.</td>
       <td>2:40 PM</td>
       <td>3:05 PM</td>
-      <td>25</td>
+      <td>25 min</td>
     </tr>
     <tr>
       <td>PAISE-04: <b>Towards Accelerating k-NN with MPI and Near-Memory Processing.</b> Hoo-Young Ahn, Seon Young Kim, Yoomi Park, Woojong Han, Nick Contini, Bharath Ramesh, Mustafa Abduljabbar and Panda Dhabaleswar.</td>
       <td>3:05 PM</td>
       <td>3:30 PM</td>
-      <td>25</td>
+      <td>25 min</td>
     </tr>
     <tr>
       <td scope="row"><b>Forum</b></td>
       <td>Workshop Forum for Feedback and Next Steps.</td>
       <td>3:30 PM</td>
       <td>3:55 PM</td>
-      <td>25</td>
+      <td>25 min</td>
     </tr>
     <tr>
       <td scope="row"><b>Conclusion</b></td>
       <td>Closing Remarks - PAISE Organizers</td>
       <td>3:55 PM</td>
       <td>4:00 PM</td>
-      <td>5</td>
+      <td>5 min</td>
     </tr>
   </tbody>
 </table>
