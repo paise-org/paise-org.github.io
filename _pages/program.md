@@ -61,7 +61,7 @@ The final program will be posted in first week of May.
     </tr>
     <tr>
       <td scope="row" rowspan="3"><b>Session 2</b></td>
-      <td>PAISE-01: <b>FrameFeedback: A Closed-Loop Control System for Dynamic Offloading Real-Time Edge Inference.</b> Dimitrios Nikolopoulos, Matthew Jackson and Bo Ji.</td>
+      <td>PAISE-01: <b>FrameFeedback: A Closed-Loop Control System for Dynamic Offloading Real-Time Edge Inference.</b> <u>Dimitrios Nikolopoulos</u>, Matthew Jackson and Bo Ji.</td>
       <td>10:20 AM</td>
       <td>10:45 AM</td>
       <td>25 min</td>
@@ -101,13 +101,13 @@ The final program will be posted in first week of May.
     </tr>
     <tr>
       <td scope="row" rowspan="2"><b>Session 3</b></td>
-      <td>PAISE-03: <b>A Converting Autoencoder Toward Low-latency and Energy-efficient DNN Inference at the Edge.</b> Hasanul Mahmud, Peng Kang, Kevin Desai, Palden Lama and Sushil Prasad.</td>
+      <td>PAISE-03: <b>A Converting Autoencoder Toward Low-latency and Energy-efficient DNN Inference at the Edge.</b> Hasanul Mahmud, Peng Kang, Kevin Desai, Palden Lama and <u>Sushil Prasad</u>.</td>
       <td>2:40 PM</td>
       <td>3:05 PM</td>
       <td>25 min</td>
     </tr>
     <tr>
-      <td>PAISE-04: <b>Towards Accelerating k-NN with MPI and Near-Memory Processing.</b> Hoo-Young Ahn, Seon Young Kim, Yoomi Park, Woojong Han, Nick Contini, Bharath Ramesh, Mustafa Abduljabbar and Panda Dhabaleswar.</td>
+      <td>PAISE-04: <b>Towards Accelerating k-NN with MPI and Near-Memory Processing.</b> <u>Hoo-Young Ahn</u>, Seon Young Kim, Yoomi Park, Woojong Han, Nick Contini, Bharath Ramesh, Mustafa Abduljabbar and Panda Dhabaleswar.</td>
       <td>3:05 PM</td>
       <td>3:30 PM</td>
       <td>25 min</td>
