@@ -67,7 +67,7 @@ The final program will be posted in first week of May.
       <td>25 min</td>
     </tr>
     <tr>
-      <td>PAISE-02: <b>PCM Enabled Low-Power Photonic Accelerator for Inference and Training on Edge Devices.</b> <u>Juliana Curry</u>, Ahmed Louri, Avinash Karanth and Razvan Bunescu.</td>
+      <td>PAISE-02: <b>A Converting Autoencoder Toward Low-latency and Energy-efficient DNN Inference at the Edge.</b> Hasanul Mahmud, Peng Kang, Kevin Desai, Palden Lama and <u>Sushil Prasad</u>.</td>
       <td>10:45 AM</td>
       <td>11:10 AM</td>
       <td>25 min</td>
@@ -82,48 +82,48 @@ The final program will be posted in first week of May.
       <td></td>
       <td scope="row"><b>Lunch</b></td>
       <td>11:30 AM</td>
-      <td>1:00 PM</td>
-      <td>90 min</td>
+      <td>12:45 PM</td>
+      <td>75 min</td>
     </tr>
     <tr>
       <td scope="row"><b>Panel</b></td>
       <td><b>Immidiate opportunities and challenges, and long-term strategy.</b></td>
-      <td>1:00 PM</td>
-      <td>2:30 PM</td>
+      <td>12:45 PM</td>
+      <td>2:15 PM</td>
       <td>90 min</td>
     </tr>
     <tr>
       <td></td>
       <td scope="row"><b>Break - 2</b></td>
+      <td>2:15 PM</td>
       <td>2:30 PM</td>
-      <td>2:40 PM</td>
-      <td>10 min</td>
+      <td>15 min</td>
     </tr>
     <tr>
       <td scope="row" rowspan="2"><b>Session 3</b></td>
-      <td>PAISE-03: <b>A Converting Autoencoder Toward Low-latency and Energy-efficient DNN Inference at the Edge.</b> Hasanul Mahmud, Peng Kang, Kevin Desai, Palden Lama and <u>Sushil Prasad</u>.</td>
-      <td>2:40 PM</td>
-      <td>3:05 PM</td>
+      <td>PAISE-03: <b>PCM Enabled Low-Power Photonic Accelerator for Inference and Training on Edge Devices.</b> <u>Juliana Curry</u>, Ahmed Louri, Avinash Karanth and Razvan Bunescu.</td>
+      <td>2:30 PM</td>
+      <td>2:55 PM</td>
       <td>25 min</td>
     </tr>
     <tr>
       <td>PAISE-04: <b>Towards Accelerating k-NN with MPI and Near-Memory Processing.</b> <u>Hoo-Young Ahn</u>, Seon Young Kim, Yoomi Park, Woojong Han, Nick Contini, Bharath Ramesh, Mustafa Abduljabbar and Panda Dhabaleswar.</td>
-      <td>3:05 PM</td>
-      <td>3:30 PM</td>
+      <td>2:55 PM</td>
+      <td>3:20 PM</td>
       <td>25 min</td>
     </tr>
     <tr>
       <td scope="row"><b>Forum</b></td>
       <td>Workshop Forum for Feedback and Next Steps.</td>
-      <td>3:30 PM</td>
-      <td>3:55 PM</td>
-      <td>25 min</td>
+      <td>3:20 PM</td>
+      <td>3:40 PM</td>
+      <td>20 min</td>
     </tr>
     <tr>
       <td scope="row"><b>Conclusion</b></td>
       <td>Closing Remarks - PAISE Organizers</td>
-      <td>3:55 PM</td>
-      <td>4:00 PM</td>
+      <td>3:40 PM</td>
+      <td>3:45 PM</td>
       <td>5 min</td>
     </tr>
   </tbody>
