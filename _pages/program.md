@@ -87,7 +87,7 @@ The final program will be posted in first week of May.
     </tr>
     <tr>
       <td scope="row"><b>Panel</b></td>
-      <td><b>Immidiate opportunities and challenges, and long-term strategy.</b></td>
+      <td><b>Immediate opportunities and challenges, and long-term strategy.</b></td>
       <td>12:45 PM</td>
       <td>2:15 PM</td>
       <td>90 min</td>
