@@ -14,16 +14,6 @@ nav_order: 4
 {: .table-striped}
 -->
 
-## **Keynote**: [Dr. Manish Parashar](https://www.manishparashar.org/)
-
-<img src="/assets/img/Headshot.png" alt="Dr. Manish Parashar" width="250" align="left" hspace="10"/>
-
-Manish Parashar is Director of the Scientific Computing and Imaging Institute and Presidential Professor in the University of Utah’s Kahlert School of Computing. He recently completed an IPA term as Office Director of NSF's Office of Advanced Cyberinfrastructure, where he oversaw investments in national cyberinfrastructure. He also served as co-chair of the National Science and Technology Council’s Subcommittee on the Future Advanced Computing Ecosystem and the National Artificial Intelligence Research Resource Task Force. Manish is a fellow of AAAS, ACM, and IEEE.
-
-Manish’s research interests are in the broad areas of Parallel and Distributed Computing and Computational and Data-Enabled Science and Engineering. Not only has he published extensively in these areas, but he has also deployed software systems that are in wide use today. Manish is the founding chair of the IEEE Technical Consortium on High Performance Computing (TCHPC) and serves on the editorial boards and organizing committees of a number of journals and international conferences and workshops. 
-
-He has received several awards for his research and leadership, including the 2023 Achievement Award in High Performance Distributed Computing and the 2023 Sidney Fernbach Memorial Award. He is a Fellow of AAAS, ACM, and IEEE.
-
 ## Program (Tentative)
 The final program will be posted in first week of May.
 
@@ -47,7 +37,7 @@ The final program will be posted in first week of May.
     </tr>
     <tr>
       <td scope="row"><b>Session 1</b></td>
-      <td>Keynote - <b>Manish Parashar</b></td>
+      <td>Keynote - <b><a href="#keynote-harnessing-the-edge-for-science">Manish Parashar, Harnessing the Edge of Science</a></b></td>
       <td>9:10 AM</td>
       <td>10:10 AM</td>
       <td>60 min</td>
@@ -87,7 +77,7 @@ The final program will be posted in first week of May.
     </tr>
     <tr>
       <td scope="row"><b>Panel</b></td>
-      <td><b>Immediate opportunities and challenges, and long-term strategy.</b></td>
+      <td><b><a href="#panel-immediate-opportunities-and-challenges-and-long-term-strategy">Immediate opportunities and challenges, and long-term strategy.</a></b></td>
       <td>12:45 PM</td>
       <td>2:15 PM</td>
       <td>90 min</td>
@@ -129,3 +119,18 @@ The final program will be posted in first week of May.
   </tbody>
 </table>
 
+<br/>
+
+## **Keynote**: **Harnessing the Edge for Science**
+
+> **Abstract**: Recent advances in edge devices are enabling data-driven, AI-enabled scientific workflows integrate distributed data sources. Combined with pervasively available computing resources, spanning HPC to the edge, these workflows can help us understand end-to-end phenomenon, drive experimentation, and facilitate important decision making. However, despite the growth of available digital data sources at the edge, and the ubiquity of non-trivial computational power for processing this data, realizing such science workflows remains challenging. This talk will explore a computing continuum spanning resources at the edges, in HPC centers and clouds, and in-between, and providing abstractions that can be harnessed to support science. The talk will also introduce recent research in programming abstractions that can express what data should be processed and when and where it should be processed, and autonomic middleware services that automate the discovery of resources and the orchestration of computations across these resources."
+
+<img src="/assets/img/Headshot.png" alt="Dr. Manish Parashar" width="250" align="left" hspace="10"/>
+
+[Dr. Manish Parashar](https://www.manishparashar.org/) is Director of the Scientific Computing and Imaging Institute and Presidential Professor in the University of Utah’s Kahlert School of Computing. He recently completed an IPA term as Office Director of NSF's Office of Advanced Cyberinfrastructure, where he oversaw investments in national cyberinfrastructure. He also served as co-chair of the National Science and Technology Council’s Subcommittee on the Future Advanced Computing Ecosystem and the National Artificial Intelligence Research Resource Task Force. Manish is a fellow of AAAS, ACM, and IEEE.
+
+Manish’s research interests are in the broad areas of Parallel and Distributed Computing and Computational and Data-Enabled Science and Engineering. Not only has he published extensively in these areas, but he has also deployed software systems that are in wide use today. Manish is the founding chair of the IEEE Technical Consortium on High Performance Computing (TCHPC) and serves on the editorial boards and organizing committees of a number of journals and international conferences and workshops. 
+
+He has received several awards for his research and leadership, including the 2023 Achievement Award in High Performance Distributed Computing and the 2023 Sidney Fernbach Memorial Award. He is a Fellow of AAAS, ACM, and IEEE.
+
+## **Panel**: **Immediate opportunities and challenges, and long-term strategy**
