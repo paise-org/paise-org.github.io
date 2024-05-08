@@ -77,7 +77,7 @@ The final program will be posted in first week of May.
     </tr>
     <tr>
       <td scope="row"><b>Panel</b></td>
-      <td><b><a href="#panel-immediate-opportunities-and-challenges-and-long-term-strategy">Immediate opportunities and challenges, and long-term strategy.</a></b></td>
+      <td><b>Future of AI@Edge</b></td>
       <td>12:45 PM</td>
       <td>2:15 PM</td>
       <td>90 min</td>
@@ -132,5 +132,3 @@ The final program will be posted in first week of May.
 Manish’s research interests are in the broad areas of Parallel and Distributed Computing and Computational and Data-Enabled Science and Engineering. Not only has he published extensively in these areas, but he has also deployed software systems that are in wide use today. Manish is the founding chair of the IEEE Technical Consortium on High Performance Computing (TCHPC) and serves on the editorial boards and organizing committees of a number of journals and international conferences and workshops. 
 
 He has received several awards for his research and leadership, including the 2023 Achievement Award in High Performance Distributed Computing and the 2023 Sidney Fernbach Memorial Award. He is a Fellow of AAAS, ACM, and IEEE.
-
-## **Panel**: **Immediate opportunities and challenges, and long-term strategy**
