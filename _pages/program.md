@@ -132,3 +132,36 @@ The final program will be posted in first week of May.
 Manish’s research interests are in the broad areas of Parallel and Distributed Computing and Computational and Data-Enabled Science and Engineering. Not only has he published extensively in these areas, but he has also deployed software systems that are in wide use today. Manish is the founding chair of the IEEE Technical Consortium on High Performance Computing (TCHPC) and serves on the editorial boards and organizing committees of a number of journals and international conferences and workshops. 
 
 He has received several awards for his research and leadership, including the 2023 Achievement Award in High Performance Distributed Computing and the 2023 Sidney Fernbach Memorial Award. He is a Fellow of AAAS, ACM, and IEEE.
+
+## **Panel**: **Future of AI@Edge**
+
+### Panelists
+
+<img src="https://www.anl.gov/sites/www/files/styles/profile_teaser_square_350px/public/32435D%20168Tanwi%20Mallick%20Hi%20Res.jpg" alt="Dr. Tanwi Mallick" width="250" align="left" hspace="10"/>
+<strong>Tanwi Mallick</strong>
+
+Argonne National Laboratory
+
+[Dr. Tanwi Mallick](https://tanwimallick.github.io/) is an assistant computer scientist in the Mathematics and Computer Science Division at Argonne National Laboratory, where she previously held a postdoctoral appointment. Her research primarily focuses on spatiotemporal graph neural networks, uncertainty quantification, trustworthy scientific machine learning (SciML), foundation models, natural language processing, and high-performance computing. Tanwi also has experience working across various scientific domains, such as HPC network analysis, transportation systems, and climate science. Prior to her tenure at Argonne, she was a senior data scientist at General Electric. She obtained her Ph.D. in computer science from the Indian Institute of Technology, Kharagpur, India.
+
+
+<img src="https://www.colorado.edu/cs/sites/default/files/styles/small/public/people/shivakant-mishra.png" alt="Dr. Shivakant Mishra" width="250" align="left" hspace="10"/>
+<strong>Shivakant Mishra</strong>
+
+University of Colorado, Boulder
+
+[Dr. Shivakant Mishra](https://mishra904.github.io/) is a professor in the Department of Computer Science at the University of Colorado, Boulder. He serves as the site co-director of the NSF IUCRC (Industry University Cooperative Research Center) on Pervasive Personalized Intelligence. Dr. Mishra is also a co-founder of The Colorado Research Center for Democracy and Technology and The CU CyberSafety Research Center at CU-Boulder. His current research focuses on developing system-level support for edge computing and digital twins at the edge, building socio-technical systems to empower environmental justice communities, strengthening democracy through technology, and investigating cybersafety issues in social networks. Throughout his career, he has conducted extensive research in areas such as mobile group recommendations, cyberbullying in social networks, misbehavior detection in online video chat systems, multiplayer online game analytics, secure and intrusion-tolerant sensor networks, delay-tolerant networking, and group communication systems.
+
+<img src="http://infodimeg.unical.it/users/196/picture/1594397398.png" alt="Dr. Stefania Perri" width="250" align="left" hspace="10"/>
+<strong>Stefania Perri</strong>
+
+University of Calabria
+
+[Dr. Stefania Perri](http://infodimeg.unical.it/associate_professor/card/263) is a Full Professor of Electronics at the University of Calabria (UNICAL). Previously, she held the position of Adjunct Professor at the Department of Electrical and Computer Engineering at the University of Rochester, NY, USA. Her research focuses on the design of embedded on-chip systems and FPGAs, development of heterogeneous systems through hardware/software co-design methodologies, utilization of Quantum-Dot Cellular Automata (QCA) for designing binary circuits, algorithms tailored for specific hardware to enhance digital image processing capabilities, and the design of novel hardware architectures aimed at high-performance image processing systems. Dr. Perri received "best paper" awards in 2006, 2009, 2010, and 2016. She has also served as the Head of Research in several research projects funded by the MIUR and MISE Ministries, collaborating with electronics industry companies such as Beghelli and Technosystem Development. 
+
+<img src="/assets/img/Headshot.png" alt="Dr. Manish Parashar" width="250" align="left" hspace="10"/>
+<strong>Manish Parashar</strong>
+
+University of Utah
+
+[Dr. Manish Parashar](https://www.manishparashar.org/) is Director of the Scientific Computing and Imaging (SCI) Institute, Chair in Computational Science and Engineering, and Presidential Professor, Kalhert School of Computing at the University of Utah. He very recently completed an IPA appointment at the National Science Foundation where he served as Office Director of the NSF Office of Advanced Cyberinfrastructure, as well as co-chair of the National Science and Technology Council’s Subcommittee on the Future Advanced Computing Ecosystem and the National Artificial Intelligence Research Resource Task Force (NAIRR). Manish’s research interests are in the broad areas of Parallel and Distributed Computing and Computational and Data-Enabled Science and Engineering and has published extensively in these areas. He has received several awards for his research and leadership, including the 2023 Achievement Award in High Performance Distributed Computing and the 2023 Sidney Fernbach Memorial Award. He is a Fellow of AAAS, ACM, and IEEE.
