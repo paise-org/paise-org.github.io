@@ -77,7 +77,7 @@ The final program will be posted in first week of May.
     </tr>
     <tr>
       <td scope="row"><b>Panel</b></td>
-      <td><b>Future of AI@Edge</b></td>
+      <td><b><a href="#panelists-future-of-aiedge">Future of AI@Edge</a></b></td>
       <td>12:45 PM</td>
       <td>2:15 PM</td>
       <td>90 min</td>
@@ -123,7 +123,7 @@ The final program will be posted in first week of May.
 
 ## **Keynote**: **Harnessing the Edge for Science**
 
-> **Abstract**: Recent advances in edge devices are enabling data-driven, AI-enabled scientific workflows integrate distributed data sources. Combined with pervasively available computing resources, spanning HPC to the edge, these workflows can help us understand end-to-end phenomenon, drive experimentation, and facilitate important decision making. However, despite the growth of available digital data sources at the edge, and the ubiquity of non-trivial computational power for processing this data, realizing such science workflows remains challenging. This talk will explore a computing continuum spanning resources at the edges, in HPC centers and clouds, and in-between, and providing abstractions that can be harnessed to support science. The talk will also introduce recent research in programming abstractions that can express what data should be processed and when and where it should be processed, and autonomic middleware services that automate the discovery of resources and the orchestration of computations across these resources."
+**Abstract**: Recent advances in edge devices are enabling data-driven, AI-enabled scientific workflows integrate distributed data sources. Combined with pervasively available computing resources, spanning HPC to the edge, these workflows can help us understand end-to-end phenomenon, drive experimentation, and facilitate important decision making. However, despite the growth of available digital data sources at the edge, and the ubiquity of non-trivial computational power for processing this data, realizing such science workflows remains challenging. This talk will explore a computing continuum spanning resources at the edges, in HPC centers and clouds, and in-between, and providing abstractions that can be harnessed to support science. The talk will also introduce recent research in programming abstractions that can express what data should be processed and when and where it should be processed, and autonomic middleware services that automate the discovery of resources and the orchestration of computations across these resources."
 
 <img src="/assets/img/Headshot.png" alt="Dr. Manish Parashar" width="250" align="left" hspace="10"/>
 
@@ -133,9 +133,7 @@ Manish’s research interests are in the broad areas of Parallel and Distributed
 
 He has received several awards for his research and leadership, including the 2023 Achievement Award in High Performance Distributed Computing and the 2023 Sidney Fernbach Memorial Award. He is a Fellow of AAAS, ACM, and IEEE.
 
-## **Panel**: **Future of AI@Edge**
-
-### Panelists
+## **Panelists**: **Future of AI@Edge**
 
 <img src="https://www.anl.gov/sites/www/files/styles/profile_teaser_square_350px/public/32435D%20168Tanwi%20Mallick%20Hi%20Res.jpg" alt="Dr. Tanwi Mallick" width="250" align="left" hspace="10"/>
 <strong>Tanwi Mallick</strong>, Argonne National Laboratory
