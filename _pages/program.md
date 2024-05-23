@@ -14,8 +14,8 @@ nav_order: 4
 {: .table-striped}
 -->
 
-## Program (Tentative)
-The final program will be posted in first week of May.
+## Workshop Program
+
 
 <table class="table table-bordered">
   <thead>
