@@ -50,7 +50,7 @@ nav_order: 4
       <td>25 min</td>
     </tr>
     <tr>
-      <td scope="row" rowspan="3"><b>Session 2</b></td>
+      <td scope="row" rowspan="2"><b>Session 2</b></td>
       <td>PAISE-01: <b>FrameFeedback: A Closed-Loop Control System for Dynamic Offloading Real-Time Edge Inference.</b> <u>Dimitrios Nikolopoulos</u>, Matthew Jackson and Bo Ji.</td>
       <td>10:35 AM</td>
       <td>11:00 AM</td>
@@ -90,7 +90,7 @@ nav_order: 4
       <td>20 min</td>
     </tr>
     <tr>
-      <td scope="row" rowspan="2"><b>Session 3</b></td>
+      <td scope="row" rowspan="3"><b>Session 3</b></td>
       <td>PAISE-03: <b>PCM Enabled Low-Power Photonic Accelerator for Inference and Training on Edge Devices.</b> <u>Juliana Curry</u>, Ahmed Louri, Avinash Karanth and Razvan Bunescu.</td>
       <td>2:50 PM</td>
       <td>3:15 PM</td>
