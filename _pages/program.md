@@ -63,7 +63,6 @@ nav_order: 4
       <td>25 min</td>
     </tr>
     <tr>
-      <td></td>
       <td scope="row"><b>Lunch</b></td>
       <td>11:25 AM</td>
       <td>12:45 PM</td>
@@ -84,6 +83,7 @@ nav_order: 4
       <td>15 min</td>
     </tr>
     <tr>
+      <td></td>
       <td>Invited Talk: <b>Charon: An End-to-End Infrastructure for Connecting AI@Edge to HPC.</b> <u>Seongha Park</u>, Yongho Kim, Swann Perarnau, Kamil Iskra, Pete Beckman, and Kazutomo Yoshii.</td>
       <td>2:30 PM</td>
       <td>2:50 PM</td>
