@@ -63,6 +63,7 @@ nav_order: 4
       <td>25 min</td>
     </tr>
     <tr>
+      <td></td>
       <td scope="row"><b>Lunch</b></td>
       <td>11:25 AM</td>
       <td>12:45 PM</td>
@@ -83,14 +84,13 @@ nav_order: 4
       <td>15 min</td>
     </tr>
     <tr>
-      <td></td>
+      <td scope="row" rowspan="3"><b>Session 3</b></td>
       <td>Invited Talk: <b>Charon: An End-to-End Infrastructure for Connecting AI@Edge to HPC.</b> <u>Seongha Park</u>, Yongho Kim, Swann Perarnau, Kamil Iskra, Pete Beckman, and Kazutomo Yoshii.</td>
       <td>2:30 PM</td>
       <td>2:50 PM</td>
       <td>20 min</td>
     </tr>
     <tr>
-      <td scope="row" rowspan="3"><b>Session 3</b></td>
       <td>PAISE-03: <b>PCM Enabled Low-Power Photonic Accelerator for Inference and Training on Edge Devices.</b> <u>Juliana Curry</u>, Ahmed Louri, Avinash Karanth and Razvan Bunescu.</td>
       <td>2:50 PM</td>
       <td>3:15 PM</td>
