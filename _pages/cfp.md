@@ -36,16 +36,16 @@ Templates for MS Word and LaTeX provided by IEEE eXpress Conference Publishing a
 download.
 See the latest versions <a href="https://www.ieee.org/conferences_events/conferences/publishing/templates.html">here</a>.
 
-Here is a link to the EasyChair <a href="https://easychair.org/cfp/PAISE2024">CFP</a>. Upload
+Here is a link to the EasyChair <a href="https://easychair.org/cfp/PAISE2025">CFP</a>. Upload
 your submission to
-EasyChair <a href="https://easychair.org/conferences/?conf=paise2024">submission server</a> in
+EasyChair <a href="https://easychair.org/conferences/?conf=paise2025">submission server</a> in
 PDF format. Accepted
 manuscripts will be included in the IPDPS workshop proceedings.
 
 ### Important Dates
 
-* <b style="color:green;text-decoration:line-through;"> February 14th</b> <b style="color:red;"> February 19th AOE, 2024: </b> Submission deadline <b style="color:red;"> (extended) </b>.
-* <b style="color:green;text-decoration: line-through;"> February 27th</b> <b style="color:red;"> March 4th, 2024: </b>Notification of acceptance.
-* <b style="color:green;"> March 7th, 2024: </b> Camera ready papers due.
-* <b style="color:green;"> May 27th, 2024: </b> Workshop.
+* <b style="color:green"> February 14th 2025:</b>  Submission deadline.
+* <b style="color:green"> February 27th 2025:</b> Notification of acceptance.
+* <b style="color:green"> March 7th, 2025:</b> Camera ready papers due.
+* <b style="color:green"> June 2025: </b> Workshop.
 

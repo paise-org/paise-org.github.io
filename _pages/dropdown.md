@@ -5,6 +5,9 @@ nav: true
 nav_order: 6
 dropdown: true
 children: 
+    - title: 2024
+      permalink: /2024
+    - title: divider
     - title: 2023
       permalink: https://web.cels.anl.gov/projects/waggle/cfp/paise/2023/
     - title: divider

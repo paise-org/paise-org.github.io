@@ -7,11 +7,12 @@ nav_order: 3
 ---
 
 ### Steering Committee
+
 * Pete Beckman, Mathematics and Computer Science Division, Argonne National Laboratory
 * Ramachandran Vaidyanathan, Division of Electrical and Computer Engineering, Louisiana State University
 * Eric Van Hensbergen, ARM Research
 
-### Program Committee
+### Program Committee (Tentative)
 
 * Denis	Trystram, Grenoble Alpes university
 * Utku Gunay Acer, Nokia Bell Labs
