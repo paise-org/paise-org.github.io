@@ -47,5 +47,5 @@ manuscripts will be included in the IPDPS workshop proceedings.
 * <b style="color:green"> February 14th 2025:</b>  Submission deadline.
 * <b style="color:green"> February 27th 2025:</b> Notification of acceptance.
 * <b style="color:green"> March 6th, 2025:</b> Camera ready papers due.
-* <b style="color:green"> June 2025: </b> Workshop.
+* <b style="color:green"> June 4th, 2025: </b> Workshop.
 
