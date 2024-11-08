@@ -35,13 +35,10 @@ nav_order: 3
 * Aalap	Tripathy, Hewlett Packard Enterprise
 * Mohamed	Wahib, RIKEN Center for Computational Science (R-CCS)
 
-### Publicity Chairs
-* <a href="https://mcopik.github.io/">Marcin Copik</a>, ETH Zürich
-* <a href="https://www.dsc-ub.de/en/member_details.php?id=4">Christopher A. Metz</a>, Universität Bremen
-
 ### General Chairs
-* <a href="https://perso.ens-lyon.fr/laurent.lefevre/">Laurent Lefèvre</a>,  Inria, Lyon
+* <a href="https://mcopik.github.io/">Marcin Copik</a>, ETH Zürich
+* <a href="https://vitali.faculty.polimi.it/?lang=en">Monica Vitali</a>, Politecnico di Milano
 
 ### Program Chairs
-* <a href="https://iakkus.github.io/">Istemi Ekin Akkus</a>, Nokia Bell Labs
+* <a href="https://perso.ens-lyon.fr/laurent.lefevre/">Laurent Lefèvre</a>,  Inria, Lyon
 * <a href="https://www.mcs.anl.gov/~rajesh">Rajesh Sankaran</a>, <a href="https://www.mcs.anl.gov/">Mathematics and Computer Science Division</a>, Argonne National Laboratory
