@@ -36,7 +36,7 @@ Templates for MS Word and LaTeX provided by IEEE eXpress Conference Publishing a
 download.
 See the latest versions <a href="https://www.ieee.org/conferences_events/conferences/publishing/templates.html">here</a>.
 
-Upload your submission in the official IPDPS Linklings portal <a href="https://ssl.linklings.net/conferences/ipdps/">submission server</a> in
+Please upload your submission in the official IPDPS Linklings portal <a href="https://ssl.linklings.net/conferences/ipdps/">submission server</a> in
 PDF format. Accepted manuscripts will be included in the IPDPS workshop proceedings.
 
 ### Important Dates
