@@ -41,4 +41,4 @@ nav_order: 3
 
 ### Program Chairs
 * <a href="https://perso.ens-lyon.fr/laurent.lefevre/">Laurent Lefèvre</a>,  Inria, Lyon
-* <a href="https://www.mcs.anl.gov/~rajesh">Rajesh Sankaran</a>, <a href="https://www.mcs.anl.gov/">Mathematics and Computer Science Division</a>, Argonne National Laboratory
+* <a href="https://www.mcs.anl.gov/~rajesh">Rajesh Sankaran</a>, Argonne National Laboratory
