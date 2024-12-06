@@ -6,38 +6,44 @@ nav: true
 nav_order: 2
 ---
 
-All papers must be original.
-The papers submitted to the workshop will be peer reviewed by a minimum of 3 reviewers.
+Edge computing is revolutionizing the computing landscape, from applications to hardware platforms. Building on the success of previous years and incorporating valuable feedback from in-person attendees at the 2023 and 2024 workshops, PAISE 2025 will feature a carefully balanced mix of interactive sessions and traditional technical talks. The goal is to foster organic discussions that complement traditional paper presentations, offering a much-needed platform to explore current trends, share visions, exchange feedback, and discuss solutions in the following key areas of edge computing:  
 
-The following paper categories are welcome:
-* **Full Papers:** Full research papers should describe original work and not simultaneously submitted to another journal or conference, and be 8 pages in length (including all figures, tables and references). The full papers will be presented as 20 min talks, followed by Q&A.
-* **Short Papers:** Research papers, positions, visions, concepts, demo descriptions, or practice reports, 4 pages in length  (including all figures, tables and references), should contain enough information for the program committee to evaluate whether the submission will generate discussion at the workshop. The short papers will be presented as 10 min talks, followed by Q&A. 
+* applications — computer vision, machine learning, analytics, IoT;
+* data flows — processing pipeline of data from ingestion to archival, pipeline of AI from learning to inference;
+* control flows — parallel and distributed programming models and runtimes for managing constrained resources, cybersecurity; and
+* infrastructure — storage, compute, and connectivity conducive to resource-constrained and harsh edge environments.
 
-Accepted papers will be included in the IPDPS workshop proceedings. For more details on paper submission instructions, please visit the workshop webpage [https://paise.org](https://paise.org). All authors are encouraged (but not required) to prepare and display posters complementing their talk during the entire workshop to allow participants to learn about their work in a non-linear fashion.
+### Submission Types
+
+All submitted papers must be original and will undergo a rigorous peer review process, evaluated by at least three independent reviewers. The following paper categories are welcome:
+
+* **Full Papers:** Full research papers should present original work that has not been submitted simultaneously to another journal or conference. Submissions must be limited to 8 pages, including all figures, tables and references. Accepted papers will be allocated 20 min presentation slots, followed by 5 min for discussions and questions. 
+
+
+* **Short Papers:** Submissions may include research papers, position papers, vision papers, conceptual ideas, demo descriptions, or practice reports. These should be limited to 4 pages, including all figures, tables and references, and must provide sufficient detail for the program committee to assess their potential to spark discussions at the workshop. Accepted papers will be allocated 15 min presentation slots, followed by 5 min for discussions and questions. 
+
+Accepted papers will be published in the IPDPS workshop proceedings. Authors are also encouraged, though not required, to prepare and display posters complementing their talks throughout the workshop, providing workshop participants with the opportunity to engage with their work in a dynamic and flexible format.
+
 
 ### Topics
 
-Full technical papers, and extended abstracts on opinions, visions, positions, and solutions along the following topics are welcome:
+The following research topics are welcome:
+
 * AI and IoT Applications at the Edge
+* Digital Twins and Other Applications Catalyzed by Edge-Computing
 * Collaborative and Distributed Learning at the Edge
+* Edge-driven HPC, and HPC-steered Edge Computing
 * Cyber-Security and Privacy in Edge Computing
 * DevOps across Edge and Cloud
 * Data and AI Lifecycle Management across Edge and Cloud
-* Edge-driven HPC, and HPC-steered Edge Computing
-* Energy Efficient and Low-power Hardware and Software Architectures and Services for the Edge
-* Serverless and other Programming Models for Edge
+* Serverless and Other Programming Models for Edge
 * Multitenancy at the Edge
-* Digital-twins and other applications catalyzed by edge-computing
-
+* Energy Efficient and Low-Power Hardware and Software Architectures and Services for the Edge
+* Sustainable and Green Edge AI
 
 ### Submission Instructions
 
-Templates for MS Word and LaTeX provided by IEEE eXpress Conference Publishing are available for
-download.
-See the latest versions <a href="https://www.ieee.org/conferences_events/conferences/publishing/templates.html">here</a>.
-
-Please upload your submission in the official IPDPS Linklings portal <a href="https://ssl.linklings.net/conferences/ipdps/">submission server</a> in
-PDF format. Accepted manuscripts will be included in the IPDPS workshop proceedings.
+Please upload your submission in the official IPDPS [Linklings portal submission](https://ssl.linklings.net/conferences/ipdps/) server in PDF format. Accepted manuscripts will be included in the IPDPS workshop proceedings. Templates for MS Word and LaTeX provided by IEEE eXpress Conference Publishing are available for download. See the latest versions [here](https://www.ieee.org/conferences_events/conferences/publishing/templates.html).
 
 ### Important Dates
 
