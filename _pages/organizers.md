@@ -32,7 +32,7 @@ nav_order: 3
 * Davide Zoni, Politecnico di Milano
 * Eunil Seo, Umea University
 * Giovanni Quattrocchi, Politecnico di Milano
-* Sebastian Werner, Amburg University
+* Sebastian Werner, Hamburg University
 
 ### General Chairs
 * <a href="https://mcopik.github.io/">Marcin Copik</a>, ETH Zürich
