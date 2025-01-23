@@ -12,7 +12,7 @@ nav_order: 3
 * Ramachandran Vaidyanathan, Division of Electrical and Computer Engineering, Louisiana State University
 * Eric Van Hensbergen, ARM Research
 
-### Program Committee (Tentative)
+### Program Committee
 
 * Thaleia Dimitra Doudali, IMDEA
 * Marco Brocanelli, The Ohio State University 
