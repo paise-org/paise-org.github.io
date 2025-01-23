@@ -14,26 +14,25 @@ nav_order: 3
 
 ### Program Committee (Tentative)
 
-* Denis	Trystram, Grenoble Alpes university
-* Utku Gunay Acer, Nokia Bell Labs
-* Nicolás	Erdödy, Open Parallel Ltd
-* Marco	Brocanelli, The Ohio State University
-* Daniel Balouek-Thomert, Inria
-* Bernhard J. Berger, Hamburg University of Technology
-* Rolf Drechsler, Universität Bremen
-* Pekka	Jääskeläinen, Intel & Tampere University
-* Alexandre	da Silva Veith, Nokia Bell Labs
-* Marcos Assuncao, ETS Montreal
-* Janwillem	Swalens, Nokia Bell Labs
-* Nirmit Desai, IBM
-* Jens Domke, RIKEN Center for Computational Science (R-CCS)
-* Hiroki Matsutani, Keio University
-* Eric Van Hensbergen, ARM Research
-* Michael	Papka, Argonne National Laboratory and University of Illinois Chicago
-* Kazutomo Yoshii, Argonne National Laboratory
-* Issam	Rais, UiT
-* Aalap	Tripathy, Hewlett Packard Enterprise
-* Mohamed	Wahib, RIKEN Center for Computational Science (R-CCS)
+* Thaleia Dimitra Doudali, IMDEA
+* Marco Brocanelli, The Ohio State University 
+* Daniel Balouek-Thomert, Inria, Rennes
+* Pekka Jääskeläinen, Tampere University
+* Michael Papka, University of Illinois at Chicago
+* Eric Van Hensbergen, ARM Corporation
+* Aalap Tripathy, HPE, 
+* Claudio Cicconetti, IIT-CNR, Pisa, Italy
+* Emanuele Carlini, ISTI-CNR, Pisa, Italy
+* Michele Ciavotta, University of Milan-Bicocca
+* Richard Mortier, Cambridge University
+* Salvatore di Girolamo, NVIDIA
+* Omesh Tickoo, Intel Research
+* Istemi Ekin Akkus, Nokia Research
+* Gianluca Palermo, Politecnico di Milano
+* Davide Zoni, Politecnico di Milano
+* Eunil Seo, Umea University
+* Giovanni Quattrocchi, Politecnico di Milano
+* Sebastian Werner, TU Berlin
 
 ### General Chairs
 * <a href="https://mcopik.github.io/">Marcin Copik</a>, ETH Zürich
