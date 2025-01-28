@@ -33,6 +33,7 @@ nav_order: 3
 * Eunil Seo, Umea University
 * Giovanni Quattrocchi, Politecnico di Milano
 * Sebastian Werner, Hamburg University
+* Marcos Dias de Asuncao, ETS Montreal
 
 ### General Chairs
 * <a href="https://mcopik.github.io/">Marcin Copik</a>, ETH Zürich
