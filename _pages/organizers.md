@@ -34,6 +34,7 @@ nav_order: 3
 * Giovanni Quattrocchi, Politecnico di Milano
 * Sebastian Werner, Hamburg University
 * Marcos Dias de Asuncao, ETS Montreal
+* Hari Subramoni, Ohio State University
 
 ### General Chairs
 * <a href="https://mcopik.github.io/">Marcin Copik</a>, ETH Zürich
