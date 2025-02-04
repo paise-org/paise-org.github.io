@@ -27,7 +27,7 @@ nav_order: 3
 * Richard Mortier, Cambridge University
 * Salvatore di Girolamo, NVIDIA
 * Omesh Tickoo, Intel Research
-* Istemi Ekin Akkus, Nokia Research
+* Istemi Ekin Akkus, Nokia Bell Labs
 * Gianluca Palermo, Politecnico di Milano
 * Davide Zoni, Politecnico di Milano
 * Eunil Seo, Umea University
