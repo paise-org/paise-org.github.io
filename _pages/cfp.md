@@ -43,7 +43,9 @@ The following research topics are welcome:
 
 ### Submission Instructions
 
-Please upload your submission in the official IPDPS [Linklings portal submission](https://ssl.linklings.net/conferences/ipdps/) server in PDF format. Accepted manuscripts will be included in the IPDPS workshop proceedings. Templates for MS Word and LaTeX provided by IEEE eXpress Conference Publishing are available for download. See the latest versions [here](https://www.ieee.org/conferences_events/conferences/publishing/templates.html).
+Please upload your submission in the official IPDPS [Linklings portal submission](https://ssl.linklings.net/conferences/ipdps/) server in PDF format. The submissions are single-blind, but double-blind submissions are also accepted.
+
+Accepted manuscripts will be included in the IPDPS workshop proceedings. Templates for MS Word and LaTeX provided by IEEE eXpress Conference Publishing are available for download. See the latest versions [here](https://www.ieee.org/conferences_events/conferences/publishing/templates.html).
 
 ### Important Dates
 
