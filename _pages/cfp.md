@@ -49,7 +49,7 @@ Accepted manuscripts will be included in the IPDPS workshop proceedings. Templat
 
 ### Important Dates
 
-* <b style="color:green"> February 14th 2025:</b>  Submission deadline.
+* <b style="color:green"> February 17th 2025:</b>  <b> Submission deadline extended </b>.
 * <b style="color:green"> February 27th 2025:</b> Notification of acceptance.
 * <b style="color:green"> March 6th, 2025:</b> Camera ready papers due.
 * <b style="color:green"> June 4th, 2025: </b> Workshop.
