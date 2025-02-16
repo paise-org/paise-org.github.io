@@ -5,6 +5,7 @@ permalink: /cfp
 nav: true
 nav_order: 2
 ---
+<b style="color:green"> PAISE submission deadline extended to February 17th 2025 AOE.</b>
 
 Edge computing is revolutionizing the computing landscape, from applications to hardware platforms. Building on the success of previous years and incorporating valuable feedback from in-person attendees at the 2023 and 2024 workshops, PAISE 2025 will feature a carefully balanced mix of interactive sessions and traditional technical talks. The goal is to foster organic discussions that complement traditional paper presentations, offering a much-needed platform to explore current trends, share visions, exchange feedback, and discuss solutions in the following key areas of edge computing:  
 
