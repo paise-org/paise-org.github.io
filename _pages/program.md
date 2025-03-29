@@ -28,4 +28,12 @@ This year, we received 14 high-quality submissions, and after extensive discussi
 | SIMD Acceleration of Matrix-Vector Operations on RISC-V for Variable Precision Neural Networks | PAISE07 |
 | Optimizing Speech Emotion Recognition with Dynamic Dilation Rates for Efficient Edge Deployment | PAISE08 |
 
-The acceptance and post-acceptance to-do emails have been sent.
+
+
+## **Keynote**: **TBAe**
+
+**Abstract**: TBA
+
+<img src="/assets/img/valeria_headshot.jpg" alt="Valeria Cardellini" width="250" align="left" hspace="10"/>
+
+[Valeria Cardellini](http://www.ce.uniroma2.it/~valeria/) is a professor of Computer Science and Engineering at the University of Rome Tor Vergata, Italy. She earned her PhD in Computer Science from the University of Rome Tor Vergata in 2001. Her research focuses on distributed software systems, including cloud and edge computing systems and services, their resource management and self-adaptation, and quality assurance. She has co-authored more than 100 publications in international journals and conferences. Additionally, she serves on the editorial boards of IEEE Transactions on Parallel and Distributed Systems and Elsevier Journal of Parallel and Distributed Computing, as well as on the technical program committees of system and performance conferences.
