@@ -29,8 +29,7 @@ This year, we received 14 high-quality submissions, and after extensive discussi
 | Optimizing Speech Emotion Recognition with Dynamic Dilation Rates for Efficient Edge Deployment | PAISE08 |
 
 
-
-## **Keynote**: **TBAe**
+## **Keynote**: **TBA**
 
 **Abstract**: TBA
 
