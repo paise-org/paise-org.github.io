@@ -29,6 +29,129 @@ This year, we received 14 high-quality submissions, and after extensive discussi
 | Optimizing Speech Emotion Recognition with Dynamic Dilation Rates for Efficient Edge Deployment | PAISE08 |
 
 
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Event</th>
+      <th scope="col">Description</th>
+      <th scope="col">Start</th>
+      <th scope="col">End</th>
+      <th scope="col">Duration</th>            
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row"><b>Introduction</b></td>
+      <td>Introductory Remarks - PAISE Organizers</td>
+      <td>8:30 AM</td>
+      <td>8:40 AM</td>
+      <td>10 min</td>
+    </tr>
+    <tr>
+      <td scope="row"><b>Keynote</b></td>
+      <td>Keynote - <b><a href="">Valeria Cardellini, TBD</a></b></td>
+      <td>8:40 AM</td>
+      <td>9:30 AM</td>
+      <td>50 min</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td scope="row"><b>Break - 1</b></td>
+      <td>9:30 AM</td>
+      <td>9:40 AM</td>
+      <td>10 min</td>
+    </tr>
+    <tr>
+      <td scope="row" rowspan="2"><b>Session 1</b></td>
+      <td>PAISE-01: <b>SDFLMQ: A Semi-Decentralized Federated Learning Framework over MQTT.</b> <u>Dimitrios Nikolopoulos</u>, Matthew Jackson and Bo Ji.</td>
+      <td>9:40 AM</td>
+      <td>10:05 AM</td>
+      <td>25 min</td>
+    </tr>
+    <tr>
+      <td>PAISE-02: <b>Understanding the Performance and Power of LLM Inferencing on Edge Accelerators.</b> Hasanul Mahmud, Peng Kang, Kevin Desai, Palden Lama and <u>Sushil Prasad</u>.</td>
+      <td>10:05 AM</td>
+      <td>10:30 AM</td>
+      <td>25 min</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td scope="row"><b>Break - 2</b></td>
+      <td>10:30 AM</td>
+      <td>11:00 AM</td>
+      <td>30 min</td>
+    </tr>
+    <tr>
+      <td scope="row" rowspan="4"><b>Session 1</b></td>
+      <td>PAISE-03: <b>Charon: An End-to-End Infrastructure for Connecting AI@Edge to HPC.</b> <u>Dimitrios Nikolopoulos</u>, Matthew Jackson and Bo Ji.</td>
+      <td>11:00 AM</td>
+      <td>11:15 AM</td>
+      <td>15 min</td>
+    </tr>
+    <tr>
+      <td>PAISE-04: <b>Software Container-based Energy Estimation Models for ARM Architecture.</b> Hasanul Mahmud, Peng Kang, Kevin Desai, Palden Lama and <u>Sushil Prasad</u>.</td>
+      <td>11:15 AM</td>
+      <td>11:40 AM</td>
+      <td>25 min</td>
+    </tr>
+    <tr>
+      <td>PAISE-05: <b>Multi-Agent Reinforcement Learning for Workload Distribution in FaaS-Edge Computing Systems.</b> Hasanul Mahmud, Peng Kang, Kevin Desai, Palden Lama and <u>Sushil Prasad</u>.</td>
+      <td>11:40 AM</td>
+      <td>12:05 AM</td>
+      <td>25 min</td>
+    </tr>
+    <tr>
+      <td>PAISE-06: <b>SIMD Acceleration of Matrix-Vector Operations on RISC-V for Variable Precision Neural Networks.</b> Hasanul Mahmud, Peng Kang, Kevin Desai, Palden Lama and <u>Sushil Prasad</u>.</td>
+      <td>12:05 AM</td>
+      <td>12:30 AM</td>
+      <td>25 min</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td scope="row"><b>Lunch</b></td>
+      <td>12:30 AM</td>
+      <td>2:00 PM</td>
+      <td>90 min</td>
+    </tr>
+    <tr>
+      <td scope="row" rowspan="2"><b>Session 3</b></td>
+      <td>PAISE-07: <b>Edge AI in the computing continuum: Consistency and Availability at Early Design Stages.</b> <u>Seongha Park</u>, Yongho Kim, Swann Perarnau, Kamil Iskra, Pete Beckman, and Kazutomo Yoshii.</td>
+      <td>2:00 PM</td>
+      <td>2:25 PM</td>
+      <td>25 min</td>
+    </tr>
+    <tr>
+      <td>PAISE-08: <b>Optimizing Speech Emotion Recognition with Dynamic Dilation Rates for Efficient Edge Deployment.</b> <u>Juliana Curry</u>, Ahmed Louri, Avinash Karanth and Razvan Bunescu.</td>
+      <td>2:25 PM</td>
+      <td>2:40 PM</td>
+      <td>15 min</td>
+    </tr>
+    <tr>
+      <td scope="row"><b>Panel</b></td>
+      <td><b><a href="#">TBD</a></b></td>
+      <td>2:40 PM</td>
+      <td>3:55 PM</td>
+      <td>75 min</td>
+    </tr>
+    <tr>
+      <td scope="row"><b>Conclusion</b></td>
+      <td><b>Closing Remarks, Feedback and Next Steps.</b></td>
+      <td>3:55 PM</td>
+      <td>4:15 PM</td>
+      <td>20 min</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td scope="row"><b>IPDPS Coffee Break</b></td>
+      <td>4:15 PM</td>
+      <td>4:30 PM</td>
+      <td>15 min</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## **Keynote**: **TBA**
 
 **Abstract**: TBA
