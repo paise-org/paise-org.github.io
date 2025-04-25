@@ -17,19 +17,6 @@ nav_order: 4
 
 This year, we received 14 high-quality submissions, and after extensive discussion, we accepted 6 Full and 2 Short papers. The following submissions have been accepted to PAISE 2025. **Congratulations!**
 
-| Submission | PAISE ID |
-|------------|----------|
-| SDFLMQ: A Semi-Decentralized Federated Learning Framework over MQTT | PAISE01 |
-| Understanding the Performance and Power of LLM Inferencing on Edge Accelerators | PAISE02 |
-| Charon: An End-to-End Infrastructure for Connecting AI@Edge to HPC | PAISE03 |
-| Edge AI in the computing continuum: Consistency and Availability at Early Design Stages | PAISE04 |
-| Multi-Agent Reinforcement Learning for Workload Distribution in FaaS-Edge Computing Systems | PAISE05 |
-| Software Container-based Energy Estimation Models for ARM Architecture | PAISE06 |
-| SIMD Acceleration of Matrix-Vector Operations on RISC-V for Variable Precision Neural Networks | PAISE07 |
-| Optimizing Speech Emotion Recognition with Dynamic Dilation Rates for Efficient Edge Deployment | PAISE08 |
-
-
-
 <table class="table table-bordered">
   <thead>
     <tr>
@@ -64,13 +51,13 @@ This year, we received 14 high-quality submissions, and after extensive discussi
     </tr>
     <tr>
       <td scope="row" rowspan="2"><b>Session 1</b></td>
-      <td>PAISE-01: <b>SDFLMQ: A Semi-Decentralized Federated Learning Framework over MQTT.</b> <u>Dimitrios Nikolopoulos</u>, Matthew Jackson and Bo Ji.</td>
+      <td>PAISE-01: <b>SDFLMQ: A Semi-Decentralized Federated Learning Framework over MQTT.</b> <ins>Amir Ali-Pour</ins> and Julien Gascon-Samson.</td>
       <td>9:40 AM</td>
       <td>10:05 AM</td>
       <td>25 min</td>
     </tr>
     <tr>
-      <td>PAISE-02: <b>Understanding the Performance and Power of LLM Inferencing on Edge Accelerators.</b> Hasanul Mahmud, Peng Kang, Kevin Desai, Palden Lama and <u>Sushil Prasad</u>.</td>
+      <td>PAISE-02: <b>Understanding the Performance and Power of LLM Inferencing on Edge Accelerators.</b> Mayank Arya and Yogesh Simmhan.</td>
       <td>10:05 AM</td>
       <td>10:30 AM</td>
       <td>25 min</td>
@@ -84,25 +71,25 @@ This year, we received 14 high-quality submissions, and after extensive discussi
     </tr>
     <tr>
       <td scope="row" rowspan="4"><b>Session 1</b></td>
-      <td>PAISE-03: <b>Charon: An End-to-End Infrastructure for Connecting AI@Edge to HPC.</b> <u>Dimitrios Nikolopoulos</u>, Matthew Jackson and Bo Ji.</td>
+      <td>PAISE-03: <b>Charon: An End-to-End Infrastructure for Connecting AI@Edge to HPC.</b> <ins>Yongho Kim</ins> and Seongha Park and Swann Perarnau and Akhilesh Raj.</td>
       <td>11:00 AM</td>
       <td>11:15 AM</td>
       <td>15 min</td>
     </tr>
     <tr>
-      <td>PAISE-04: <b>Software Container-based Energy Estimation Models for ARM Architecture.</b> Hasanul Mahmud, Peng Kang, Kevin Desai, Palden Lama and <u>Sushil Prasad</u>.</td>
+      <td>PAISE-04: <b>Software Container-based Energy Estimation Models for ARM Architecture.</b> <ins>Vincenzo Barbuto</ins> and Claudio Savaglio.</td>
       <td>11:15 AM</td>
       <td>11:40 AM</td>
       <td>25 min</td>
     </tr>
     <tr>
-      <td>PAISE-05: <b>Multi-Agent Reinforcement Learning for Workload Distribution in FaaS-Edge Computing Systems.</b> Hasanul Mahmud, Peng Kang, Kevin Desai, Palden Lama and <u>Sushil Prasad</u>.</td>
+      <td>PAISE-05: <b>Multi-Agent Reinforcement Learning for Workload Distribution in FaaS-Edge Computing Systems.</b> <ins>Emanuele Petriglia</ins> and Federica Filippini and Michele Ciavotta and Marco Savi.</td>
       <td>11:40 AM</td>
       <td>12:05 AM</td>
       <td>25 min</td>
     </tr>
     <tr>
-      <td>PAISE-06: <b>SIMD Acceleration of Matrix-Vector Operations on RISC-V for Variable Precision Neural Networks.</b> Hasanul Mahmud, Peng Kang, Kevin Desai, Palden Lama and <u>Sushil Prasad</u>.</td>
+      <td>PAISE-06: <b>SIMD Acceleration of Matrix-Vector Operations on RISC-V for Variable Precision Neural Networks.</b> Mohamed Anisse BELHADJ and Kods Trabelsi and Loïc Cudennec and Henri-Pierre Charles.</td>
       <td>12:05 AM</td>
       <td>12:30 AM</td>
       <td>25 min</td>
@@ -116,13 +103,13 @@ This year, we received 14 high-quality submissions, and after extensive discussi
     </tr>
     <tr>
       <td scope="row" rowspan="2"><b>Session 3</b></td>
-      <td>PAISE-07: <b>Edge AI in the computing continuum: Consistency and Availability at Early Design Stages.</b> <u>Seongha Park</u>, Yongho Kim, Swann Perarnau, Kamil Iskra, Pete Beckman, and Kazutomo Yoshii.</td>
+      <td>PAISE-07: <b>Edge AI in the computing continuum: Consistency and Availability at Early Design Stages.</b> <ins>Gonzalo Salinas</ins> and Guilherme Sequeira and Alfonso Rodriguez and João Bispo and Nuno Paulino.</td>
       <td>2:00 PM</td>
       <td>2:25 PM</td>
       <td>25 min</td>
     </tr>
     <tr>
-      <td>PAISE-08: <b>Optimizing Speech Emotion Recognition with Dynamic Dilation Rates for Efficient Edge Deployment.</b> <u>Juliana Curry</u>, Ahmed Louri, Avinash Karanth and Razvan Bunescu.</td>
+      <td>PAISE-08: <b>Optimizing Speech Emotion Recognition with Dynamic Dilation Rates for Efficient Edge Deployment.</b> Pin-Hsuan Lee and <ins>Jin-Shyan Lee</ins>.</td>
       <td>2:25 PM</td>
       <td>2:40 PM</td>
       <td>15 min</td>
