@@ -17,7 +17,8 @@ nav_order: 4
 
 This year, we received 14 high-quality submissions, and after extensive discussion, we accepted 6 Full and 2 Short papers. The following submissions have been accepted to PAISE 2025. **Congratulations!**
 
-**Date:** 4th of June, 2025 </br>
+**Date:** 4th of June, 2025 
+
 **Location:** Building 3 on the Politecnico di Milano campus, located at Piazza Leonardo da Vinci 32, 20133 Milan.
 
 <table class="table table-bordered">
