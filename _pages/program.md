@@ -13,7 +13,7 @@ nav_order: 4
 {: .table-striped}
 -->
 
-## Workshop Program
+## Workshop Program on 4th of June
 
 This year, we received 14 high-quality submissions, and after extensive discussion, we accepted 6 Full and 2 Short papers. The following submissions have been accepted to PAISE 2025. **Congratulations!**
 
