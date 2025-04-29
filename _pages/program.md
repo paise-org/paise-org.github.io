@@ -93,7 +93,7 @@ This year, we received 14 high-quality submissions, and after extensive discussi
       <td>25 min</td>
     </tr>
     <tr>
-      <td>PAISE-06: <b>Software Container-based Energy Estimation Models for ARM Architecture.</b> Mohamed Anisse BELHADJ and Kods Trabelsi and Loïc Cudennec and Henri-Pierre Charles.</td>
+      <td>PAISE-06: <b>Software Container-based Energy Estimation Models for ARM Architecture.</b> <ins>Mohamed Anisse BELHADJ</ins> and Kods Trabelsi and Loïc Cudennec and Henri-Pierre Charles.</td>
       <td>12:05 AM</td>
       <td>12:30 AM</td>
       <td>25 min</td>
