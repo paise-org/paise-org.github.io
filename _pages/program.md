@@ -81,7 +81,7 @@ This year, we received 14 high-quality submissions, and after extensive discussi
       <td>15 min</td>
     </tr>
     <tr>
-      <td>PAISE-04: <b>Software Container-based Energy Estimation Models for ARM Architecture.</b> <ins>Vincenzo Barbuto</ins> and Claudio Savaglio.</td>
+      <td>PAISE-04: <b>Edge AI in the computing continuum: Consistency and Availability at Early Design Stages.</b> <ins>Vincenzo Barbuto</ins> and Claudio Savaglio.</td>
       <td>11:15 AM</td>
       <td>11:40 AM</td>
       <td>25 min</td>
@@ -93,7 +93,7 @@ This year, we received 14 high-quality submissions, and after extensive discussi
       <td>25 min</td>
     </tr>
     <tr>
-      <td>PAISE-06: <b>SIMD Acceleration of Matrix-Vector Operations on RISC-V for Variable Precision Neural Networks.</b> Mohamed Anisse BELHADJ and Kods Trabelsi and Loïc Cudennec and Henri-Pierre Charles.</td>
+      <td>PAISE-06: <b>Software Container-based Energy Estimation Models for ARM Architecture.</b> Mohamed Anisse BELHADJ and Kods Trabelsi and Loïc Cudennec and Henri-Pierre Charles.</td>
       <td>12:05 AM</td>
       <td>12:30 AM</td>
       <td>25 min</td>
@@ -107,7 +107,7 @@ This year, we received 14 high-quality submissions, and after extensive discussi
     </tr>
     <tr>
       <td scope="row" rowspan="2"><b>Session 3</b></td>
-      <td>PAISE-07: <b>Edge AI in the computing continuum: Consistency and Availability at Early Design Stages.</b> <ins>Gonzalo Salinas</ins> and Guilherme Sequeira and Alfonso Rodriguez and João Bispo and Nuno Paulino.</td>
+      <td>PAISE-07: <b>SIMD Acceleration of Matrix-Vector Operations on RISC-V for Variable Precision Neural Networks.</b> <ins>Gonzalo Salinas</ins> and Guilherme Sequeira and Alfonso Rodriguez and João Bispo and Nuno Paulino.</td>
       <td>2:00 PM</td>
       <td>2:25 PM</td>
       <td>25 min</td>
