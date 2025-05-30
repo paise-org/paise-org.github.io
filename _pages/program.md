@@ -74,7 +74,7 @@ This year, we received 14 high-quality submissions, and after extensive discussi
       <td>30 min</td>
     </tr>
     <tr>
-      <td scope="row" rowspan="4"><b>Session 1</b></td>
+      <td scope="row" rowspan="4"><b>Session 2</b></td>
       <td>PAISE-03: <b>Charon: An End-to-End Infrastructure for Connecting AI@Edge to HPC.</b> <ins>Yongho Kim</ins> and Seongha Park and Swann Perarnau and Akhilesh Raj.</td>
       <td>11:00 AM</td>
       <td>11:15 AM</td>
@@ -89,19 +89,19 @@ This year, we received 14 high-quality submissions, and after extensive discussi
     <tr>
       <td>PAISE-05: <b>Multi-Agent Reinforcement Learning for Workload Distribution in FaaS-Edge Computing Systems.</b> <ins>Emanuele Petriglia</ins> and Federica Filippini and Michele Ciavotta and Marco Savi.</td>
       <td>11:40 AM</td>
-      <td>12:05 AM</td>
+      <td>12:05 PM</td>
       <td>25 min</td>
     </tr>
     <tr>
       <td>PAISE-06: <b>Software Container-based Energy Estimation Models for ARM Architecture.</b> <ins>Mohamed Anisse BELHADJ</ins> and Kods Trabelsi and Loïc Cudennec and Henri-Pierre Charles.</td>
-      <td>12:05 AM</td>
-      <td>12:30 AM</td>
+      <td>12:05 PM</td>
+      <td>12:30 PM</td>
       <td>25 min</td>
     </tr>
     <tr>
       <td></td>
       <td scope="row"><b>Lunch</b></td>
-      <td>12:30 AM</td>
+      <td>12:30 PM</td>
       <td>2:00 PM</td>
       <td>90 min</td>
     </tr>
