@@ -176,3 +176,11 @@ As a case study, we present Serverledge, a decentralized, open-source FaaS platf
 <strong>Valeria Cardellini</strong>, University of Rome Tor Vergata
 
 [Prof. Valeria Cardellini](http://www.ce.uniroma2.it/~valeria/) is a professor of Computer Science and Engineering at the University of Rome Tor Vergata, Italy. She earned her PhD in Computer Science from the University of Rome Tor Vergata in 2001. Her research focuses on distributed software systems, including cloud and edge computing systems and services, their resource management and self-adaptation, and quality assurance. She has co-authored more than 100 publications in international journals and conferences. Additionally, she serves on the editorial boards of IEEE Transactions on Parallel and Distributed Systems and Elsevier Journal of Parallel and Distributed Computing, as well as on the technical program committees of system and performance conferences.
+
+<br/>
+<br/>
+
+<img src="/assets/img/2025/christopher.jpg" alt="Prof. Christophe Cérin" width="250" align="left" hspace="10"/>
+<strong>Christophe Cérin</strong>, Sorbonne Paris Nord University
+
+[Prof. Christophe Cérin](https://www-lipn.univ-paris13.fr/~cerin/) is a Computer Science Professor at Sorbonne Paris Nord University since 2005, focusing on high-performance computing, including grid, cloud, and edge computing. He develops middleware, algorithms, and tools for distributed system management and explores computing's environmental impact. As an IEEE Member, he received the 2020 IEEE Technical Committee on Cloud Computing Research Innovation Award. He serves on the IEEE Transactions on Computers editorial board and as Associate Editor for Springer's Journal of Cloud Computing. Starting September 2021, he joined Grenoble University for research with the Edge Intelligence program and INRIA Datamove team (Delegation INRIA programme). He recently chaired the FogSLA project (as local chair) on Fog orchestration and has industrial experience with the Wolphin, Wendelin, and Resilience projects related to cloud and big data.
