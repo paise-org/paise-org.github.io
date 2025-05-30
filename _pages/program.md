@@ -41,7 +41,7 @@ This year, we received 14 high-quality submissions, and after extensive discussi
     </tr>
     <tr>
       <td scope="row"><b>Keynote</b></td>
-      <td>Keynote - <b><a href="#keynote-tba">Valeria Cardellini, TBD</a></b></td>
+      <td>Keynote - <b><a href="#keynote-serverless-without-borders-evolving-across-the-edge-cloud-continuum">Valeria Cardellini, Serverless without borders: Evolving across the Edge-Cloud continuum</a></b></td>
       <td>8:40 AM</td>
       <td>9:30 AM</td>
       <td>50 min</td>
@@ -143,9 +143,13 @@ This year, we received 14 high-quality submissions, and after extensive discussi
 </table>
 
 
-## **Keynote**: **TBA**
+## **Keynote**: **Serverless without borders: Evolving across the Edge-Cloud continuum**
 
-**Abstract**: TBA
+**Abstract**: Serverless computing, particularly the Function-as-a-Service (FaaS) paradigm, has gained significant traction for its simplicity, scalability, and event-driven model. As the computing landscape shifts toward the heterogeneous Edge-Cloud continuum, extending serverless into this distributed environment presents both opportunities and challenges.
+
+In this talk, we explore how the serverless model can support modern workloads, including AI-driven and latency-sensitive applications, across a continuum of devices and infrastructures. We address key challenges such as function scheduling and offloading, orchestration, and energy-efficient execution. We also outline emerging research directions and system-level considerations for building responsive, resource-aware, and sustainable serverless services.
+
+As a case study, we present Serverledge, a decentralized, open-source FaaS platform built for the Edge-Cloud continuum and discuss how it addresses some of these challenges in practice, enabling borderless function execution across the compute continuum.
 
 <img src="/assets/img/valeria_headshot.jpg" alt="Valeria Cardellini" width="250" align="left" hspace="10"/>
 
