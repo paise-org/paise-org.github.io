@@ -19,7 +19,7 @@ This year, we received 14 high-quality submissions, and after extensive discussi
 
 **Date:** 4th of June, 2025 
 
-**Location:** Building 3 on the Politecnico di Milano campus, located at Piazza Leonardo da Vinci 32, 20133 Milan.
+**Location:** Room 3.1.9 in Building 3 on the Politecnico di Milano campus, located at Piazza Leonardo da Vinci 32, 20133 Milan.
 
 <table class="table table-bordered">
   <thead>
