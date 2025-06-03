@@ -61,7 +61,7 @@ This year, we received 14 high-quality submissions, and after extensive discussi
       <td>25 min</td>
     </tr>
     <tr>
-      <td>PAISE-02: <b>Understanding the Performance and Power of LLM Inferencing on Edge Accelerators.</b> Mayank Arya and Yogesh Simmhan.</td>
+      <td>PAISE-02: <b>Understanding the Performance and Power of LLM Inferencing on Edge Accelerators.</b> Mayank Arya and <ins>Yogesh Simmhan</ins>.</td>
       <td>10:05 AM</td>
       <td>10:30 AM</td>
       <td>25 min</td>
