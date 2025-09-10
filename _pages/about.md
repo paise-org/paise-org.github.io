@@ -18,7 +18,7 @@ From applications to hardware platforms, Edge computing is rapidly transforming 
 
 * infrastructure &mdash; storage, compute, and connectivity conducive to resource-constrained and harsh edge environments.
 
-Read more about [the goals of this workshop](/why_paise) and [check our program for the 2025 edition](/program).
+Read more about [the goals of this workshop](/why_paise) and [check our program for the 2025 edition](/2025.md).
 
 ## Contact
 
