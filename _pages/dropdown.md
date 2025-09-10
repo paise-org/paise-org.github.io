@@ -4,7 +4,9 @@ title: Past Editions
 nav: true
 nav_order: 6
 dropdown: true
-children: 
+children:
+    - title: 2025
+      permalink: /2025
     - title: 2024
       permalink: /2024
     - title: divider
