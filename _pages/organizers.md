@@ -12,7 +12,7 @@ nav_order: 3
 * Ramachandran Vaidyanathan, Division of Electrical and Computer Engineering, Louisiana State University
 * Eric Van Hensbergen, ARM Research
 
-### Program Committee
+### Program Committee (Tentative)
 
 * Thaleia Dimitra Doudali, IMDEA
 * Marco Brocanelli, The Ohio State University 
@@ -35,10 +35,6 @@ nav_order: 3
 * Sebastian Werner, Hamburg University
 * Marcos Dias de Asuncao, ETS Montreal
 * Hari Subramoni, Ohio State University
-
-### General Chairs
-* <a href="https://mcopik.github.io/">Marcin Copik</a>, ETH Zürich
-* <a href="https://vitali.faculty.polimi.it/?lang=en">Monica Vitali</a>, Politecnico di Milano
 
 ### Program Chairs
 * <a href="https://perso.ens-lyon.fr/laurent.lefevre/">Laurent Lefèvre</a>,  Inria, Lyon
