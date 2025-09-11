@@ -7,6 +7,7 @@ dropdown: true
 children:
     - title: 2025
       permalink: /2025
+    - title: divider
     - title: 2024
       permalink: /2024
     - title: divider
