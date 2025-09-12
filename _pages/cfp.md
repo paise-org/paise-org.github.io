@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-Edge computing is revolutionizing the computing landscape, from applications to hardware platforms. Building on the success of previous years and incorporating valuable feedback from in-person attendees at the 2023 and 2024 workshops, PAISE 2025 will feature a carefully balanced mix of interactive sessions and traditional technical talks. The goal is to foster organic discussions that complement traditional paper presentations, offering a much-needed platform to explore current trends, share visions, exchange feedback, and discuss solutions in the following key areas of edge computing:  
+Edge computing is revolutionizing the computing landscape, from applications to hardware platforms. Building on the success of previous years and incorporating valuable feedback from in-person attendees at the 2023, 2024, and 2025 workshops, PAISE 2026 will feature a carefully balanced mix of interactive sessions and traditional technical talks. The goal is to foster organic discussions that complement traditional paper presentations, offering a much-needed platform to explore current trends, share visions, exchange feedback, and discuss solutions in the following key areas of edge computing:  
 
 * applications — computer vision, machine learning, analytics, IoT;
 * data flows — processing pipeline of data from ingestion to archival, pipeline of AI from learning to inference;
@@ -25,7 +25,7 @@ All submitted papers must be original and will undergo a rigorous peer review pr
 Accepted papers will be published in the IPDPS workshop proceedings. Authors are also encouraged, though not required, to prepare and display posters complementing their talks throughout the workshop, providing workshop participants with the opportunity to engage with their work in a dynamic and flexible format.
 
 
-### Topics
+### Topics (Tentative)
 
 The following research topics are welcome:
 
