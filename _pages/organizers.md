@@ -36,10 +36,10 @@ nav_order: 3
 * Marcos Dias de Asuncao, ETS Montreal
 * Hari Subramoni, Ohio State University
 
-### General Chairs
-* <a href="https://www.linkedin.com/in/omesh-tickoo/">Omesh Tickoo</a>, Intel Advanced Technology Group
+### Workshop Organizers
 
-
-### Program Chairs
 * <a href="https://perso.ens-lyon.fr/laurent.lefevre/">Laurent Lefèvre</a>,  Inria, Lyon
 * <a href="https://www.mcs.anl.gov/~rajesh">Rajesh Sankaran</a>, Argonne National Laboratory
+* <a href="https://ece.uic.edu/profiles/hulya-seferoglu-phd/">Hulya Seferoglu</a>, University of Illinois Chicago
+* <a href="https://www.linkedin.com/in/omesh-tickoo/">Omesh Tickoo</a>, Intel Advanced Technology Group
+
