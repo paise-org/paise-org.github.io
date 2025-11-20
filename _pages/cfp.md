@@ -5,6 +5,7 @@ permalink: /cfp
 nav: true
 nav_order: 2
 ---
+
 Edge computing is revolutionizing the computing landscape, from applications to hardware platforms. Building on the success of previous years and incorporating valuable feedback from in-person attendees at the 2023, 2024, and 2025 workshops, PAISE 2026 will feature a carefully balanced mix of interactive sessions and traditional technical talks. The goal is to foster organic discussions that complement traditional paper presentations, offering a much-needed platform to explore current trends, share visions, exchange feedback, and discuss solutions in the following key areas of edge computing:  
 
 * applications — computer vision, machine learning, analytics, IoT;
@@ -48,9 +49,7 @@ Accepted manuscripts will be included in the IPDPS workshop proceedings. Templat
 
 ### Important Dates
 
-* **January 31st 2026:** Submission deadline.
-* **February 21st 2026:** Notification of acceptance.
-* **March 6th 2026:** Camera ready papers due.
-* **May 26th 2026:** Workshop.
-
-
+* <b style="color:green"> February 3rd 2026:</b> Submission deadline.
+* <b style="color:green"> February 27th 2026:</b> Notification of acceptance.
+* <b style="color:green"> March 6th 2026:</b> Camera ready papers due.
+* <b style="color:green"> May 26th 2026:</b> Workshop.
