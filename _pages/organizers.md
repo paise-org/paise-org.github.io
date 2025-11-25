@@ -36,6 +36,10 @@ nav_order: 3
 * Marcos Dias de Asuncao, ETS Montreal
 * Hari Subramoni, Ohio State University
 
+### Webmaster
+
+* <a href="https://mcopik.github.io/">Marcin Copik</a>, ETH Zürich
+
 ### Workshop Organizers
 
 * <a href="https://perso.ens-lyon.fr/laurent.lefevre/">Laurent Lefèvre</a>,  Inria, Lyon
