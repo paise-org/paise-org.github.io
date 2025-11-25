@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for Papers
-permalink: /cfp
+permalink: /cfp/
 nav: true
 nav_order: 2
 ---
