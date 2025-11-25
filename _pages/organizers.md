@@ -39,7 +39,7 @@ nav_order: 3
 ### Workshop Organizers
 
 * <a href="https://perso.ens-lyon.fr/laurent.lefevre/">Laurent Lefèvre</a>,  Inria, Lyon
-* <a href="https://www.mcs.anl.gov/~rajesh">Rajesh Sankaran</a>, Argonne National Laboratory
+* <a href="https://www.mcs.anl.gov/~rajesh">Raj Sankaran</a>, Argonne National Laboratory
 * <a href="https://ece.uic.edu/profiles/hulya-seferoglu-phd/">Hulya Seferoglu</a>, University of Illinois Chicago
 * <a href="https://www.linkedin.com/in/omesh-tickoo/">Omesh Tickoo</a>, Intel Advanced Technology Group
 
