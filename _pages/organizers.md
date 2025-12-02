@@ -36,6 +36,10 @@ nav_order: 3
 * Marcos Dias de Asuncao, ETS Montreal
 * Hari Subramoni, Ohio State University
 
+### Publicity
+
+* <a href="https://scholar.google.com/citations?user=mjfYEY8AAAAJ&hl=en">Peyman Gholami</a>, University of Illinois Chicago
+
 ### Webmaster
 
 * <a href="https://mcopik.github.io/">Marcin Copik</a>, ETH Zürich
