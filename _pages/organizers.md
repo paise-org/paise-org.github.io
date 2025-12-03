@@ -38,8 +38,10 @@ nav_order: 3
 
 ### Publicity
 
+* <a href="https://scholar.google.com/citations?user=e3zULroAAAAJ&hl=en">Athma Narayanan</a>, Intel
 * <a href="https://scholar.google.com/citations?user=mjfYEY8AAAAJ&hl=en">Peyman Gholami</a>, University of Illinois Chicago
 
+  
 ### Webmaster
 
 * <a href="https://mcopik.github.io/">Marcin Copik</a>, ETH Zürich
@@ -49,5 +51,5 @@ nav_order: 3
 * <a href="https://perso.ens-lyon.fr/laurent.lefevre/">Laurent Lefèvre</a>,  Inria, Lyon
 * <a href="https://www.mcs.anl.gov/~rajesh">Raj Sankaran</a>, Argonne National Laboratory
 * <a href="https://ece.uic.edu/profiles/hulya-seferoglu-phd/">Hulya Seferoglu</a>, University of Illinois Chicago
-* <a href="https://www.linkedin.com/in/omesh-tickoo/">Omesh Tickoo</a>, Intel Advanced Technology Group
+* <a href="https://www.linkedin.com/in/omesh-tickoo/">Omesh Tickoo</a>, Intel 
 
