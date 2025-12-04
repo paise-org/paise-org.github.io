@@ -21,7 +21,7 @@ All submitted papers must be original and will undergo a rigorous peer review pr
 
 **Short Papers:** Submissions may include research papers, position papers, vision papers, conceptual ideas, demo descriptions, or practice reports. These should be limited to 4 pages, including all figures, tables and references, and must provide sufficient detail for the program committee to assess their potential to spark discussions at the workshop. Accepted papers will be allocated 15 minutes for presentation, followed by 5 min for discussions. 
 
-Accepted papers will be published in the IPDPS workshop proceedings. Authors are also encouraged, though not required, to prepare and display posters complementing their talks throughout the workshop, providing workshop participants with the opportunity to engage with their work in a dynamic and flexible format.
+Accepted full and short papers will be published in the IPDPS workshop proceedings. Authors are also encouraged, though not required, to prepare and display posters complementing their talks throughout the workshop, providing workshop participants with the opportunity to engage with their work in a dynamic and flexible format.
 
 
 ### Topics
@@ -54,7 +54,7 @@ The following research topics are welcome:
 
 **4. Data, Security, and Lifecycle Management**
 * Cyber-security and privacy in edge computing
-* Security and privacy for distributed learning
+* Security and privacy for distributed learning and inference
 * Data and AI lifecycle management across edge and cloud
 
 ### Submission Instructions
