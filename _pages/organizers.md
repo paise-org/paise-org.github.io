@@ -19,6 +19,7 @@ nav_order: 3
 
 * <a href="https://scholar.google.com/citations?user=e3zULroAAAAJ&hl=en">Athma Narayanan</a>, Intel
 * <a href="https://scholar.google.com/citations?user=mjfYEY8AAAAJ&hl=en">Peyman Gholami</a>, University of Illinois Chicago
+* <a href="https://www.linkedin.com/in/djoser-simeu-008b3120b/">Djoser Simeu</a>, LIG Inria
 
   
 ### Webmaster
