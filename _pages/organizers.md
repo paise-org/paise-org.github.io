@@ -8,9 +8,9 @@ nav_order: 3
 
 ### Steering Committee
 
-* Pete Beckman, Mathematics and Computer Science Division, Argonne National Laboratory
-* Ramachandran Vaidyanathan, Division of Electrical and Computer Engineering, Louisiana State University
-* Eric Van Hensbergen, ARM Research
+* Peter Beckman, Northwestern University
+* Ramachandran Vaidyanathan, Louisiana State University
+* Eric Van Hensbergen, Arm Limited
 
 ### Program Committee
 
