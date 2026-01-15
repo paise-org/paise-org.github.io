@@ -12,7 +12,34 @@ nav_order: 3
 * Ramachandran Vaidyanathan, Division of Electrical and Computer Engineering, Louisiana State University
 * Eric Van Hensbergen, ARM Research
 
-### Program Committee (Coming soon...)
+### Program Committee
+
+* Istemi Ekin Akkus, Nokia Bell Labs
+* Daniel Balouek, French Institute for Research in Computer Science and Automation (INRIA)
+* Rawad Bitar, Technical University of Munich
+* Marco Brocanelli, Ohio State University
+* Danilo Carastan-Santos, Grenoble Alpes University
+* Emanuele Carlini, ISTI - CNR
+* Michele Ciavotta, University of Milan-Bicocca
+* Marcin Copik, ETH Zürich
+* Marcos Dias de Assuncao, École de Technologie Supérieure
+* Pekka Jääskeläinen, Tampere University
+* Yongho Kim, Argonne National Laboratory
+* Erdem Koyuncu, University of Illinois at Chicago
+* Francesc Lordan, Barcelona Supercomputing Center (BSC)
+* Richard Mortier, University of Cambridge
+* Gianluca Palermo, DEIB, Politecnico di Milano
+* Michael E. Papka, University of Illinois Chicago
+* Seongha Park, Argonne National Laboratory
+* Issam RAIS, UiT, The Arctic University of Norway
+* Debashri Roy, University of Texas at Arlington
+* Eunil Seo, Umea University
+* Hari Subramoni, The Ohio State University
+* Aalap Tripathy, Hewlett Packard Enterprise
+* Amit Trivedi, University of Illinois at Chicago
+* Eric Van Hensbergen, Arm Limited
+* Monica Vitali, Politecnico di Milano
+* Sebastian Werner, Technische Universtität Berlin
 
 
 ### Publicity
