@@ -64,7 +64,7 @@ Accepted manuscripts will be included in the IPDPS workshop proceedings. Templat
 
 ### Important Dates
 
-* **January 31st 2026:** Submission deadline.
-* **February 21st 2026:** Notification of acceptance.
+* **~~January 31st 2026~~ February 6th 2026 AOE:** Submission deadline (Extended).
+* **~~February 21st 2026~~ February 25th 2026:** Notification of acceptance.
 * **March 6th 2026:** Camera ready papers due.
 * **May 26th 2026:** Workshop.
