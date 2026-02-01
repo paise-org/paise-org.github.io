@@ -58,5 +58,8 @@ nav_order: 3
 * <a href="https://perso.ens-lyon.fr/laurent.lefevre/">Laurent Lefèvre</a>,  Inria, Lyon
 * <a href="https://www.mcs.anl.gov/~rajesh">Raj Sankaran</a>, Argonne National Laboratory
 * <a href="https://ece.uic.edu/profiles/hulya-seferoglu-phd/">Hulya Seferoglu</a>, University of Illinois Chicago
-* <a href="https://www.linkedin.com/in/omesh-tickoo/">Omesh Tickoo</a>, Intel 
+* <a href="https://www.linkedin.com/in/omesh-tickoo/">Omesh Tickoo</a>, Intel
+
+### Workshop Contact
+ * Please send your communication to - org.paise@gmail.com
 
