@@ -61,5 +61,5 @@ nav_order: 3
 * <a href="https://www.linkedin.com/in/omesh-tickoo/">Omesh Tickoo</a>, Intel
 
 ### Workshop Contact
- * Please send your communication to - org.paise@gmail.com
+ * For any questions, please contact us at [org.paise@gmail.com](mailto:org.paise@gmail.com).
 
