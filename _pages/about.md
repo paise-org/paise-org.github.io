@@ -8,7 +8,7 @@ nav_title: About
 
 ## 📢 Submission Deadline Extended
 
-The paper submission deadline has been extended by one week.
+Based on several requests, the paper submission deadline has been extended by ~one week for both updates and new submissions.
 
 **New deadline:** **February 6th AOE, 2026**  
 **Original deadline:** ~~January 31st, 2026~~
