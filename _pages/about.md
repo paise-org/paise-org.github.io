@@ -13,6 +13,9 @@ Based on several requests, the paper submission deadline has been extended by ~o
 **New deadline:** **February 6th AOE, 2026**  
 **Original deadline:** ~~January 31st, 2026~~
 
+Submission deadline extended to February 6, 2026 (AoE) to allow new submissions and final updates, including fixes to formatting and bibliography issues.
+
+---
 
 ### Co-located with [IPDPS 2026](https://www.ipdps.org/), New Orleans, USA
 
