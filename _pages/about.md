@@ -5,11 +5,13 @@ permalink: /
 subtitle:
 nav_title: About
 ---
+## 📢 Revised Dates
+* **~~February 21st 2026~~ ~~February 25th 2026~~ March 3rd 2026:** Notification of acceptance.
+* **~~March 6th 2026~~ March 13th 2026:** Camera ready papers due.
 
 ## 📢 Submission Deadline Extended
 
 Based on several requests, the paper submission deadline has been extended by ~one week for both updates and new submissions.
-
 **New deadline:** **February 6th AOE, 2026**  
 **Original deadline:** ~~January 31st, 2026~~
 
