@@ -81,7 +81,7 @@ nav_order: 4
     </tr>
     <tr>
       <td scope="row" rowspan="4"><b>Session 2</b></td>
-      <td><b>PAISE-05:</b> A Preliminary Study of LLM Inferencing on Sandboxed Environments for Jetson Edge Platforms</b></td>
+      <td><b>PAISE-05:</b> A Preliminary Study of LLM Inferencing on Sandboxed Environments for Jetson Edge Platforms</td>
       <td>1:30 PM</td>
       <td>1:50 PM</td>
       <td>20 min</td>
