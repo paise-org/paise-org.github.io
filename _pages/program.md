@@ -35,7 +35,7 @@ nav_order: 4
     </tr>
     <tr>
       <td scope="row"><b>Keynote</b></td>
-      <td><b>Keynote</b> - Ravi Iyer, Google</td>
+      <td><b>Keynote</b> - <a href="https://scholar.google.com/citations?user=2rO3ZvEAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Ravi Iyer</a>, Google</td>
       <td>9:10 AM</td>
       <td>10:00 AM</td>
       <td>50 min</td>
