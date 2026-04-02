@@ -120,7 +120,7 @@ nav_order: 4
     </tr>
     <tr>
       <td scope="row"><b>Conclusion</b></td>
-      <td><b>Closing Remarks, Feedback and Next Steps.</b></td>
+      <td><b>Closing Remarks, Feedback, and Next Steps.</b></td>
       <td>4:50 PM</td>
       <td>5:00 PM</td>
       <td>10 min</td>
