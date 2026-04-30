@@ -5,19 +5,8 @@ permalink: /
 subtitle:
 nav_title: About
 ---
-## 📢 Revised Dates
-* **~~February 21st 2026~~ ~~February 25th 2026~~ March 3rd 2026:** Notification of acceptance.
-* **~~March 6th 2026~~ March 13th 2026:** Camera ready papers due.
 
-## 📢 Submission Deadline Extended
-
-Based on several requests, the paper submission deadline has been extended by ~one week for both updates and new submissions.
-**New deadline:** **February 6th AOE, 2026**  
-**Original deadline:** ~~January 31st, 2026~~
-
-Submission deadline extended to February 6, 2026 (AoE) to allow new submissions and final updates, including fixes to formatting and bibliography issues.
-
----
+### Tuesday 26 May 2026, in Bacchus Room at Marriott on Canal Street New Orleans, USA
 
 ### Co-located with [IPDPS 2026](https://www.ipdps.org/), New Orleans, USA
 
