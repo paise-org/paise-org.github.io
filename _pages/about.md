@@ -6,7 +6,7 @@ subtitle:
 nav_title: About
 ---
 
-### Tuesday 26 May 2026, in Bacchus Room at Marriott on Canal Street New Orleans, USA
+#### PAISE 2026 will be held on Tuesday, May 26, 2026, in the Bacchus Room at the Marriott on Canal Street in New Orleans, Louisiana, USA
 
 ### Co-located with [IPDPS 2026](https://www.ipdps.org/), New Orleans, USA
 
