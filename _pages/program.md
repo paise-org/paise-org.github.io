@@ -142,8 +142,6 @@ PAISE 2026 will be held on Tuesday, May 26, 2026, in the Bacchus Room at the Mar
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 ## **Keynote**: **AI/ML Infrastructure: Accelerating & Scaling for the Future**
 
@@ -152,7 +150,6 @@ PAISE 2026 will be held on Tuesday, May 26, 2026, in the Bacchus Room at the Mar
 <img src="/assets/img/RaviIyer.png" alt="Ravi Iyer" width="250" align="left" hspace="10"/>
 
 [Ravi Iyer](http://scholar.google.com/citations?user=2rO3ZvEAAAAJ&hl=en) is a Principal Engineer in Google's AI and Infrastructure group. Before joining Google, he was an Intel Fellow and Sr. Director of the Emerging Systems Lab at Intel Labs. Ravi has published more than 150 papers spanning topics related to edge/cloud infrastructure, AI/ML accelerators,  server architecture and SoCs, domain-specific co-design, network acceleration, workload characterization, and performance analysis. Ravi has been granted more than 50 patents, with many additional patents pending. Ravi earned his Ph.D. in Computer Science from Texas A&M University. He is also an IEEE Fellow.
-
 
 <br/>
 <br/>
