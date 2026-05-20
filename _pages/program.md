@@ -156,7 +156,7 @@ PAISE 2026 will be held on Tuesday, May 26, 2026, in the Bacchus Room at the Mar
 <br/>
 <br/>
 
-<h2 id="panelists-the-future-of-aiedge"> <strong>Panelists</strong>: <strong>The Future of AI@Edge</strong>> 
+## **Panelists**: **The Future of AI@Edge**
 
 <img src="/assets/img/2026/Jannesari.jpg"  alt="Ali Jannesari" width="250" align="left" hspace="10"/>
 <strong>Ali Jannesari</strong>, Iowa State University
