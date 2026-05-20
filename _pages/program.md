@@ -125,7 +125,7 @@ PAISE 2026 will be held on Tuesday, May 26, 2026, in the Bacchus Room at the Mar
     </tr>
     <tr>
       <td scope="row"><b>Panel</b></td>
-      <td><b>PAISE Panel - <td><b><a href="#panelists-the-future-of-aiedge">The Future of AI@Edge</a></b></td> </b></td>
+      <td><b>PAISE Panel - <a href="#panelists-the-future-of-aiedge">The Future of AI@Edge</a></b></td> 
       <td>3:30 PM</td>
       <td>4:50 PM</td>
       <td>80 min</td>
