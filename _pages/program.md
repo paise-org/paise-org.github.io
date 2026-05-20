@@ -18,6 +18,9 @@ nav_order: 4
 PAISE 2026 will be held on Tuesday, May 26, 2026, in the Bacchus Room at the Marriott on Canal Street in New Orleans, Louisiana, USA.
 <td></td>
 
+<br/>
+<br/>
+
 <table class="table table-bordered">
   <thead>
     <tr>
@@ -136,6 +139,11 @@ PAISE 2026 will be held on Tuesday, May 26, 2026, in the Bacchus Room at the Mar
     </tr>
   </tbody>
 </table>
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## **Keynote**: **AI/ML Infrastructure: Accelerating & Scaling for the Future**
 
