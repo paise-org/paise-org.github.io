@@ -150,3 +150,63 @@ PAISE 2026 will be held on Tuesday, May 26, 2026, in the Bacchus Room at the Mar
 <br/>
 <br/>
 <br/>
+
+## **Panelists**: **The Future of AI@Edge**
+
+<img src="/assets/img/2026/Jannesari.jpg"  alt="Ali Jannesari" width="250" align="left" hspace="10"/>
+<strong>Ali Jannesari</strong>, Iowa State University
+
+[Ali Jannesari](https://www.cs.iastate.edu/people/ali-jannesari) is an Associate Professor and Director of the Laboratory for Software
+Analytics and Pervasive Parallelism in the Department of Computer Science at Iowa
+State University (ISU). His research focuses on the intersection of High-Performance
+Computing (HPC) and Artificial Intelligence (AI). Dr. Jannesari has published over a
+hundred refereed articles, several of which have received awards. His research has
+been funded by both U.S. and European agencies, including the National Science
+Foundation (NSF), the Department of Energy (DOE), the German Research Foundation
+(DFG), the Federal Ministry of Education and Research (BMBF), and the German
+Academic Exchange Service (DAAD). Prior to joining ISU, he was a Senior Research
+Fellow at the University of California, Berkeley. During his time in Germany, he led the
+Multicore Programming Group at the Technical University of Darmstadt and served as a
+junior research group leader at RWTH Aachen University. He also worked as a
+Postdoctoral Research Fellow at the Karlsruhe Institute of Technology (KIT). Dr.
+Jannesari holds a Habilitation from the Technical University of Darmstadt and earned
+his Ph.D. in Computer Science from the Karlsruhe Institute of Technology.
+
+<br/>
+<br/>
+
+<img src="/assets/img/2026/MarcoS.jpg"  alt="Marco D. Santambrogio" width="250" align="left" hspace="10"/>
+<strong>Marco D. Santambrogio</strong>, Politecnico di Milano
+
+[Marco D. Santambrogio](https://www.deib.polimi.it/eng/people/details/356156) is a Full Professor at Politecnico di Milano, and an Adjunct Professor del College of Engineering of the University of Illinois at Chicago (UIC) since 2009.  He was Research Affiliate with the Computer Science and Artificial Intelligence Laboratory (CSAIL) at Massachusetts Institute of Technology (MIT) from 2010 to 2015. He received his laurea (M.Sc. equivalent) degree in Computer Engineering from the Politecnico di Milano (2004), a M.Sc. degree in Computer Science from the University of Illinois at Chicago (UIC) in 2005 and his PhD degree in Computer Engineering from the Politecnico di Milano (2008). He founded the Novel, Emerging Computing System Technologies Laboratory (NECST Laboratory), merging together the two previously existing labs: MicroLab and VPLab, and he is, since then, the Director of the NECSTLab. He conducts research and teaches in the areas of reconfigurable computing, self-aware and autonomic systems, hardware/software co-design, embedded systems, and high performance processors and systems. Marco D. Santambrogio is a senior member of both the IEEE and ACM, and he has been the IEEE Italy Computer Society Chair from 2019 to 2025.  
+
+<br/>
+<br/>
+
+<img src="/assets/img/2026/Vijayaraj.jpg" alt="Thejasvi Vijayaraj" width="250" align="left" hspace="10"/>
+<strong>Thejasvi Vijayaraj</strong>, Google LLC
+
+[Thejasvi Vijayaraj](https://www.linkedin.com/in/thejasvi/) leads performance and co-design efforts for Google's large-scale AI infrastructure. He specializes in hardware/software co-design, focusing on Large Language Models (LLMs) and recommendation models. His work is targeted at optimizing performance and power efficiency for a wide range of production workloads across several generations of Google Tensor Processing Units (TPUs). This work has informed the development of the TPU roadmap and helped align the Gemini architecture with specific hardware features to improve overall efficiency. Thejasvi also addresses scaling challenges for training and inference systems by identifying and mitigating chip and system bottlenecks, influencing network topologies, and optimizing workload mapping strategies. Prior to Google, Thejasvi worked on SoC and platform architecture at Apple and Rivos. He developed his foundational interest in parallel and distributed computing during graduate studies at Georgia Tech.
+
+<br/>
+<br/>
+
+<img src="/assets/img/2026/Samira.jpg" alt="Samira Afzal" width="250" align="left" hspace="10"/>
+<strong>Samira Afzal</strong>, Baylor University
+
+[Samira Afzal](https://scholar.google.com/citations?user=c70ecO0AAAAJ&hl=en) is a Postdoctoral Research Associate at Baylor University with five years of post-Ph.D. experience in multimedia systems,
+multipath video streaming, and AI-driven sustainable video workload
+management across cloud and edge infrastructures. She was a Ph.D.
+researcher at Samsung Brazil and has contributed to international
+research collaborations with Bitmovin and TNO. Her work has resulted
+in peer-reviewed publications, publicly released datasets, an
+open-source tool for monitoring video encoding resource usage,
+contributions to MPEG/ISO standardization for enhancing the MPEG Media
+Transport protocol, and patented techniques for multipath video
+delivery. Her research has supported the development of sustainable
+video streaming platforms recognized with international innovation
+awards.
+
+
+
+
