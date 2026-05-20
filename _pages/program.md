@@ -147,7 +147,7 @@ PAISE 2026 will be held on Tuesday, May 26, 2026, in the Bacchus Room at the Mar
 
 **Abstract**:  In this talk, I will cover AI/ML infrastructure advancements for the current and future growth of AI workloads and use cases. I will touch upon the journey of developing TPUs, describe the high level architecture of the Ironwood TPU and discuss the benefits of scaling compute, memory and communications for large-scale AI/ML infrastructure. I will also touch upon the emerging growth in AI use cases (e.g. agentic workloads) and the associated opportunities and challenges for continuing to accelerate & scale the infrastructure for future needs.
 
-<img src="/assets/img/RaviIyer.png" alt="Ravi Iyer" width="250" align="left" hspace="10"/>
+<img src="/assets/img/2026/RaviIyer.png" alt="Ravi Iyer" width="250" align="left" hspace="10"/>
 
 [Ravi Iyer](http://scholar.google.com/citations?user=2rO3ZvEAAAAJ&hl=en) is a Principal Engineer in Google's AI and Infrastructure group. Before joining Google, he was an Intel Fellow and Sr. Director of the Emerging Systems Lab at Intel Labs. Ravi has published more than 150 papers spanning topics related to edge/cloud infrastructure, AI/ML accelerators,  server architecture and SoCs, domain-specific co-design, network acceleration, workload characterization, and performance analysis. Ravi has been granted more than 50 patents, with many additional patents pending. Ravi earned his Ph.D. in Computer Science from Texas A&M University. He is also an IEEE Fellow.
 
