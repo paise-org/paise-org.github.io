@@ -158,6 +158,28 @@ PAISE 2026 will be held on Tuesday, May 26, 2026, in the Bacchus Room at the Mar
 
 ## **Panelists**: **The Future of AI@Edge**
 
+<img src="/assets/img/2026/Samira.jpg" alt="Samira Afzal" width="250" align="left" hspace="10"/>
+<strong>Samira Afzal</strong>, Baylor University
+
+[Samira Afzal](https://scholar.google.com/citations?user=c70ecO0AAAAJ&hl=en) is a Postdoctoral Research Associate at Baylor University with five years of post-Ph.D. experience in multimedia systems,
+multipath video streaming, and AI-driven sustainable video workload
+management across cloud and edge infrastructures. She was a Ph.D.
+researcher at Samsung Brazil and has contributed to international
+research collaborations with Bitmovin and TNO. Her work has resulted
+in peer-reviewed publications, publicly released datasets, an
+open-source tool for monitoring video encoding resource usage,
+contributions to MPEG/ISO standardization for enhancing the MPEG Media
+Transport protocol, and patented techniques for multipath video
+delivery. Her research has supported the development of sustainable
+video streaming platforms recognized with international innovation
+awards.
+
+
+<br/>
+<br/>
+
+
+
 <img src="/assets/img/2026/Jannesari.jpg"  alt="Ali Jannesari" width="250" align="left" hspace="10"/>
 <strong>Ali Jannesari</strong>, Iowa State University
 
@@ -180,6 +202,12 @@ his Ph.D. in Computer Science from the Karlsruhe Institute of Technology.
 <br/>
 <br/>
 
+
+<img src="/assets/img/2026/ElahehSadredini.jpg" alt="Elaheh Sadredini" width="250" align="left" hspace="10"/>
+<strong>Elaheh Sadredini</strong>, niversity of California, Riverside
+
+[Elaheh Sadredini](https://www.cs.ucr.edu/~elaheh/) is an Assistant Professor in the Department of Computer Science at the University of California, Riverside, with a cooperating appointment in Electrical and Computer Engineering. Her research develops secure, high-performance, and energy-efficient data-centric architectures, with a particular focus on memory-centric and in-SRAM computing that spans the continuum from Internet of Things devices to the cloud — work recognized by the NSF CAREER Award for "Enabling Memory-Centric Computing from Internet of Things to Cloud." Her contributions have appeared in top-tier venues including MICRO, ISCA, ASPLOS, HPCA, USENIX Security, DAC, ICS, and KDD, and have led to multiple patents and several Best Paper recognitions. She serves as Area Chair for ISCA 2026 and co-general chair for IISWC 2025. She earned her Ph.D. in Computer Science from the University of Virginia in 2019.
+
 <img src="/assets/img/2026/MarcoS.jpg"  alt="Marco D. Santambrogio" width="250" align="left" hspace="10"/>
 <strong>Marco D. Santambrogio</strong>, Politecnico di Milano
 
@@ -196,21 +224,7 @@ his Ph.D. in Computer Science from the Karlsruhe Institute of Technology.
 <br/>
 <br/>
 
-<img src="/assets/img/2026/Samira.jpg" alt="Samira Afzal" width="250" align="left" hspace="10"/>
-<strong>Samira Afzal</strong>, Baylor University
 
-[Samira Afzal](https://scholar.google.com/citations?user=c70ecO0AAAAJ&hl=en) is a Postdoctoral Research Associate at Baylor University with five years of post-Ph.D. experience in multimedia systems,
-multipath video streaming, and AI-driven sustainable video workload
-management across cloud and edge infrastructures. She was a Ph.D.
-researcher at Samsung Brazil and has contributed to international
-research collaborations with Bitmovin and TNO. Her work has resulted
-in peer-reviewed publications, publicly released datasets, an
-open-source tool for monitoring video encoding resource usage,
-contributions to MPEG/ISO standardization for enhancing the MPEG Media
-Transport protocol, and patented techniques for multipath video
-delivery. Her research has supported the development of sustainable
-video streaming platforms recognized with international innovation
-awards.
 
 
 
