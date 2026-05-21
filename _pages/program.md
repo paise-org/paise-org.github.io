@@ -204,7 +204,7 @@ his Ph.D. in Computer Science from the Karlsruhe Institute of Technology.
 
 
 <img src="/assets/img/2026/ElahehSadredini.jpg" alt="Elaheh Sadredini" width="250" align="left" hspace="10"/>
-<strong>Elaheh Sadredini</strong>, niversity of California, Riverside
+<strong>Elaheh Sadredini</strong>, University of California, Riverside
 
 [Elaheh Sadredini](https://www.cs.ucr.edu/~elaheh/) is an Assistant Professor in the Department of Computer Science at the University of California, Riverside, with a cooperating appointment in Electrical and Computer Engineering. Her research develops secure, high-performance, and energy-efficient data-centric architectures, with a particular focus on memory-centric and in-SRAM computing that spans the continuum from Internet of Things devices to the cloud — work recognized by the NSF CAREER Award for "Enabling Memory-Centric Computing from Internet of Things to Cloud." Her contributions have appeared in top-tier venues including MICRO, ISCA, ASPLOS, HPCA, USENIX Security, DAC, ICS, and KDD, and have led to multiple patents and several Best Paper recognitions. She serves as Area Chair for ISCA 2026 and co-general chair for IISWC 2025. She earned her Ph.D. in Computer Science from the University of Virginia in 2019.
 
