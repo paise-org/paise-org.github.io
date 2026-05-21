@@ -41,7 +41,7 @@ PAISE 2026 will be held on Tuesday, May 26, 2026, in the Bacchus Room at the Mar
     </tr>
     <tr>
       <td scope="row"><b>Keynote</b></td>
-      <td><b>Keynote</b> - <a href="#keynote">AI/ML Infrastructure: Accelerating & Scaling for the Future</a>, <a href="https://scholar.google.com/citations?user=2rO3ZvEAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Dr. Ravi Iyer</a>, Google</td>
+      <td><b>Keynote</b> - <a href="#keynote-aiml-infrastructure-accelerating--scaling-for-the-future">AI/ML Infrastructure: Accelerating & Scaling for the Future</a>, <a href="https://scholar.google.com/citations?user=2rO3ZvEAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Dr. Ravi Iyer</a>, Google</td>
       <td>9:10 AM</td>
       <td>10:00 AM</td>
       <td>50 min</td>
