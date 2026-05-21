@@ -174,11 +174,8 @@ delivery. Her research has supported the development of sustainable
 video streaming platforms recognized with international innovation
 awards.
 
-
 <br/>
 <br/>
-
-
 
 <img src="/assets/img/2026/Jannesari.jpg"  alt="Ali Jannesari" width="250" align="left" hspace="10"/>
 <strong>Ali Jannesari</strong>, Iowa State University
@@ -202,11 +199,13 @@ his Ph.D. in Computer Science from the Karlsruhe Institute of Technology.
 <br/>
 <br/>
 
-
 <img src="/assets/img/2026/ElahehSadredini.jpg" alt="Elaheh Sadredini" width="250" align="left" hspace="10"/>
 <strong>Elaheh Sadredini</strong>, University of California, Riverside
 
 [Elaheh Sadredini](https://www.cs.ucr.edu/~elaheh/) is an Assistant Professor in the Department of Computer Science at the University of California, Riverside, with a cooperating appointment in Electrical and Computer Engineering. Her research develops secure, high-performance, and energy-efficient data-centric architectures, with a particular focus on memory-centric and in-SRAM computing that spans the continuum from Internet of Things devices to the cloud — work recognized by the NSF CAREER Award for "Enabling Memory-Centric Computing from Internet of Things to Cloud." Her contributions have appeared in top-tier venues including MICRO, ISCA, ASPLOS, HPCA, USENIX Security, DAC, ICS, and KDD, and have led to multiple patents and several Best Paper recognitions. She serves as Area Chair for ISCA 2026 and co-general chair for IISWC 2025. She earned her Ph.D. in Computer Science from the University of Virginia in 2019.
+
+<br/>
+<br/>
 
 <img src="/assets/img/2026/MarcoS.jpg"  alt="Marco D. Santambrogio" width="250" align="left" hspace="10"/>
 <strong>Marco D. Santambrogio</strong>, Politecnico di Milano
@@ -220,9 +219,6 @@ his Ph.D. in Computer Science from the Karlsruhe Institute of Technology.
 <strong>Thejasvi Vijayaraj</strong>, Google LLC
 
 [Thejasvi Vijayaraj](https://www.linkedin.com/in/thejasvi/) leads performance and co-design efforts for Google's large-scale AI infrastructure. He specializes in hardware/software co-design, focusing on Large Language Models (LLMs) and recommendation models. His work is targeted at optimizing performance and power efficiency for a wide range of production workloads across several generations of Google Tensor Processing Units (TPUs). This work has informed the development of the TPU roadmap and helped align the Gemini architecture with specific hardware features to improve overall efficiency. Thejasvi also addresses scaling challenges for training and inference systems by identifying and mitigating chip and system bottlenecks, influencing network topologies, and optimizing workload mapping strategies. Prior to Google, Thejasvi worked on SoC and platform architecture at Apple and Rivos. He developed his foundational interest in parallel and distributed computing during graduate studies at Georgia Tech.
-
-<br/>
-<br/>
 
 
 
