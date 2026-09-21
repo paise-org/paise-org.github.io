@@ -12,7 +12,7 @@ nav_order: 3
 * Ramachandran Vaidyanathan, Louisiana State University
 * Eric Van Hensbergen, Arm Limited
 
-### Program Committee
+### Program Committee (Tentative)
 
 * Istemi Ekin Akkus, Nokia Bell Labs
 * Daniel Balouek, French Institute for Research in Computer Science and Automation (INRIA)
@@ -42,14 +42,14 @@ nav_order: 3
 * Sebastian Werner, Technische Universtität Berlin
 
 
-### Publicity
+### Publicity (Tentative)
 
 * <a href="https://scholar.google.com/citations?user=e3zULroAAAAJ&hl=en">Athma Narayanan</a>, Intel
 * <a href="https://scholar.google.com/citations?user=mjfYEY8AAAAJ&hl=en">Peyman Gholami</a>, University of Illinois Chicago
 * <a href="https://www.linkedin.com/in/djoser-simeu-008b3120b/">Djoser Simeu</a>, LIG Inria
 
   
-### Webmaster
+### Webmaster (Tentative)
 
 * <a href="https://mcopik.github.io/">Marcin Copik</a>, ETH Zürich
 
