@@ -8,7 +8,7 @@ nav_title: About
 
 ### Co-located with [IPDPS 2027](https://www.ipdps.org/), New Orleans, USA
 
-From applications to hardware platforms, Edge computing is rapidly transforming the computing landscape. Based on the program and participation in the past years, and particularly drawing on the detailed feedback from in-person workshop attendees in 2023, 2024 and 2025, PAISE 2026 will balance interaction-focused sessions and traditional technical talks. The objective is to enable organic discussions that augment traditional paper presentations, providing a critically needed opportunity to discuss the current trends and issues, to share visions and opinions, to collect feedback and to discuss solutions covering the following areas of edge computing:
+From applications to hardware platforms, Edge computing is rapidly transforming the computing landscape. Based on the program and participation in the past years, and particularly drawing on the detailed feedback from in-person workshop attendees in 2023, 2024, 2025 and 2026, PAISE 2027 will balance interaction-focused sessions and traditional technical talks. The objective is to enable organic discussions that augment traditional paper presentations, providing a critically needed opportunity to discuss the current trends and issues, to share visions and opinions, to collect feedback and to discuss solutions covering the following areas of edge computing:
 
 * applications &mdash; computer vision, machine learning, analytics, IoT;
 
@@ -18,7 +18,7 @@ From applications to hardware platforms, Edge computing is rapidly transforming 
 
 * infrastructure &mdash; storage, compute, and connectivity conducive to resource-constrained and harsh edge environments.
 
-Read more about [the goals of this workshop](/why_paise) and [check our program for the 2025 edition](/2025.md).
+Read more about [the goals of this workshop](/why_paise) and [check our program for the 2026 edition](/2026.md).
 
 ## Contact
 
