@@ -5,8 +5,10 @@ nav: true
 nav_order: 6
 dropdown: true
 children:
+    - title: divider
     - title: 2026
       permalink: /2026
+    - title: divider
     - title: 2025
       permalink: /2025
     - title: divider
