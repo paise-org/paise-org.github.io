@@ -66,6 +66,6 @@ Accepted manuscripts will be included in the IPDPS workshop proceedings. Templat
 
 * **February 3rd 2027 AOE:** Submission deadline (Extended).
 * **February 27 2027:** Notification of acceptance.
-* **March 6th 2026:** Camera ready papers due.
+* **March 6th 2027:** Camera ready papers due.
 
 ***
