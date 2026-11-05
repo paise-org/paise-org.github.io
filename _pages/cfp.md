@@ -56,6 +56,7 @@ The following research topics are welcome:
 * Cyber-security and privacy in edge computing
 * Security and privacy for distributed learning and inference
 * Data and AI lifecycle management across edge and cloud
+* Edge AI safety and robustness frameworks/architecture
 
 ### Submission Instructions
 
