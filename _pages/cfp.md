@@ -63,6 +63,8 @@ The following research topics are welcome:
 Please upload your submission in the official IPDPS [Linklings portal submission](https://ssl.linklings.net/conferences/ipdps/) server in PDF format. The submissions are single-blind, but double-blind submissions are also accepted.
 Accepted manuscripts will be included in the IPDPS workshop proceedings. Templates for MS Word and LaTeX provided by IEEE eXpress Conference Publishing are available for download. See the latest versions [here](https://www.ieee.org/conferences_events/conferences/publishing/templates.html). For any questions, please contact us at [org.paise@gmail.com](mailto:org.paise@gmail.com).
 
+**In-Person Presentation Requirement:** Papers must be presented in person by at least one co-author. Requests for alternative arrangements must be submitted to the PAISE Workshop Chairs for consideration. Such requests will be considered on a case-by-case basis, subject to approval by the IPDPS Workshop Chairs. 
+
 ### Important Dates
 
 * **February 3rd 2027 AOE:** Submission deadline.
