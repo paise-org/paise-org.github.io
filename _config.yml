@@ -76,7 +76,7 @@ zotero_username:
 contact_note: ""
 
 # Keep existing Google Analytics setting. Disable if analytics is not needed.
-google_analytics: G-2X96BKTPB8
+google_analytics: 
 cronitor_analytics:
 google_site_verification:
 bing_site_verification:
@@ -225,7 +225,7 @@ imagemagick:
 jekyll-diagrams: {}
 
 # Optional theme features
-enable_google_analytics: true
+enable_google_analytics: false
 enable_cronitor_analytics: false
 enable_google_verification: false
 enable_bing_verification: false
@@ -247,8 +247,8 @@ bootstrap:
   integrity:
     css: "sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY="
     js: "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
-bootstrap-table:
-  version: "1.21.4"
+#bootstrap-table:
+  #version: "1.21.4"
 fontawesome:
   version: "6.4.0"
   integrity: "sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8="
