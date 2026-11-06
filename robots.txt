@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://paise-org.github.io/sitemap.xml
+Sitemap: https://paise.org/sitemap.xml
